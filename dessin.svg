@@ -26,16 +26,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0833333"
+     inkscape:zoom="1.27742"
      inkscape:cx="539.58247"
-     inkscape:cy="388.57142"
+     inkscape:cy="387.64834"
      inkscape:document-units="mm"
-     inkscape:current-layer="g97292"
+     inkscape:current-layer="g91493"
      showgrid="false"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1023"
-     inkscape:window-x="0"
+     inkscape:window-height="1176"
+     inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="true"
@@ -497,16 +497,6 @@
          offset="1"
          style="stop-color:#aeaeae;stop-opacity:1;" />
     </linearGradient>
-    <linearGradient
-       gradientTransform="matrix(0.26406655,0,0,0.1032465,0.11339124,19.764258)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient3700"
-       inkscape:collect="always"
-       x1="485.95532"
-       x2="485.95532"
-       xlink:href="#linearGradient9499"
-       y1="130.04884"
-       y2="0.00011204656" />
     <linearGradient
        id="linearGradient9499">
       <stop
@@ -1191,7 +1181,6 @@
     </rdf:RDF>
   </metadata>
   <g
-     sodipodi:insensitive="true"
      style="display:inline"
      inkscape:label="Maitre"
      id="layer2"
@@ -1211,27 +1200,6 @@
        width="270.40417"
        x="0.11338885"
        y="-1.20952" />
-    <text
-       id="text3688"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       transform="scale(1,-1)"
-       x="7.6517115"
-       xml:space="preserve"
-       y="-22.264847"><tspan
-         id="tspan3690"
-         name="slideTitle"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
-         x="7.6517115"
-         y="-22.264847"
-         ns1:autoText="slideTitle">MASTER SLIDE</tspan></text>
-    <rect
-       height="13.422048"
-       id="rect3692"
-       style="display:inline;fill:url(#linearGradient3700);fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       width="270.40417"
-       x="0.11338885"
-       y="19.764267" />
     <text
        id="text3702"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -1336,7 +1304,7 @@
       <g
          id="g776">
         <flowRoot
-           transform="matrix(0.26458333,0,0,0.26458333,-5.037608,-59.858636)"
+           transform="matrix(0.26458333,0,0,0.26458333,-5.4518544,-71.871782)"
            style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
            id="flowRoot744"
            xml:space="preserve"><flowRegion
@@ -1349,19 +1317,21 @@
              style="font-size:28.00000191px;line-height:0"
              id="flowPara750"><flowSpan
    style="font-weight:bold"
-   id="flowSpan764">Goal of our work:</flowSpan> give a mathematical account of &quot;languages&quot; with <flowSpan
-   id="flowSpan752"
-   style="font-style:italic;font-size:28.00000191px">variables</flowSpan> and <flowSpan
-   id="flowSpan754"
-   style="font-style:italic;font-size:28.00000191px">substitution </flowSpan> (i.e. replacing variables with any expression yields a valid expression).</flowPara><flowPara
+   id="flowSpan764">Goal of our work:</flowSpan> construct the syntax associated to a large class of <flowSpan
+   style="font-style:italic"
+   id="flowSpan113047">signatures.</flowSpan></flowPara><flowPara
              style="font-weight:bold;font-size:28.00000191px;line-height:0"
              id="flowPara449">Aim: <flowSpan
    style="font-weight:normal"
    id="flowSpan451">justify induction on the syntax with an <flowSpan
    style="font-style:italic"
    id="flowSpan453">initiality </flowSpan>property</flowSpan></flowPara><flowPara
+             style="font-weight:bold;font-size:28.00000191px;line-height:0"
+             id="flowPara113062" /><flowPara
              id="flowPara780"
-             style="font-weight:bold;font-size:28.00000191px;line-height:0">First Example: <flowSpan
+             style="font-weight:bold;font-size:28.00000191px;line-height:0"><flowSpan
+   style="font-weight:normal"
+   id="flowSpan113057">Example of a &quot;language&quot; with variables and substitution  (i.e. replacing variables with any expression yields a valid expression):</flowSpan> <flowSpan
    id="flowSpan5531"
    style="font-weight:normal">formal arithmetic expressions with +, ⨉, natural numbers.</flowSpan></flowPara></flowRoot>      </g>
       <g
@@ -1643,6 +1613,63 @@
   <g
      style="display:none"
      inkscape:groupmode="layer"
+     id="g3772"
+     inkscape:label="Abstract">
+    <g
+       id="g3754"
+       transform="translate(-2.6669689,2.6669689)">
+      <g
+         id="g3658">
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot3656"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           transform="matrix(0.26458333,0,0,0.26458333,-5.4518544,-71.871782)"><flowRegion
+             id="flowRegion3634"><rect
+               id="rect3632"
+               width="975.50867"
+               height="463.67456"
+               x="35.839584"
+               y="427.52396" /></flowRegion><flowPara
+             style="font-weight:normal;font-size:28.00000191px;line-height:0"
+             id="flowPara3654">- Definition of <flowSpan
+   id="flowSpan3821"
+   style="font-style:italic;font-weight:bold">syntax generated by a signature</flowSpan><flowSpan
+   style="font-weight:bold"
+   id="flowSpan3793"> </flowSpan>(in the spirit of Initial Semantics): it is the initial object in a suitable category of models.</flowPara><flowPara
+             style="font-weight:normal;font-size:28.00000191px;line-height:0"
+             id="flowPara3815" /><flowPara
+             style="font-weight:normal;font-size:28.00000191px;line-height:0"
+             id="flowPara3809">- Identification of a class of signatures which generate a syntax: <flowSpan
+   style="font-style:italic;font-weight:bold"
+   id="flowSpan3811">presentable signatures </flowSpan>(subsumes classical algebraic signatures, i.e. signatures for alguagages with variable binding such as lambda calculus).</flowPara></flowRoot>      </g>
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3762"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion3758"><rect
+           id="rect3756"
+           width="908.30945"
+           height="218.39746"
+           x="66.079231"
+           y="464.48352" /></flowRegion><flowPara
+         id="flowPara3760" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3770"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion3766"><rect
+           id="rect3764"
+           width="885.90967"
+           height="215.03749"
+           x="103.0388"
+           y="483.52332" /></flowRegion><flowPara
+         id="flowPara3768"
+         style="font-size:16px" /></flowRoot>  </g>
+  <g
+     style="display:inline"
+     inkscape:groupmode="layer"
      id="g91607"
      inkscape:label="Plan">
     <g
@@ -1688,7 +1715,7 @@
                height="114.46153"
                width="288.92307"
                id="rect91636" /></flowRegion><flowPara
-             id="flowPara91638">PLAN</flowPara></flowRoot>      </g>
+             id="flowPara91638">PLAN (TODO)</flowPara></flowRoot>      </g>
       <g
          ns0:jacobian_sqrt="1.058333"
          inkscapeversion="0.92.3"
@@ -15094,7 +15121,7 @@
            style="font-size:26.66666603px" /></flowRegion><flowPara
          id="flowPara70729" /></flowRoot>  </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="Quotient of a signature"
      id="g97292"
      inkscape:groupmode="layer">
@@ -15510,7 +15537,7 @@
   <g
      inkscape:groupmode="layer"
      id="g105692"
-     inkscape:label="Quotients of an algebraic signatures"
+     inkscape:label="Quotients of algebraic signatures"
      style="display:none">
     <flowRoot
        xml:space="preserve"
@@ -15668,9 +15695,19 @@
          style="font-weight:normal;font-size:26.66666794px"
          id="flowPara105592"><flowSpan
    style="font-weight:bold"
-   id="flowSpan105700">Theorem</flowSpan>: Let S be the syntax generated by an algebraic signature Σ.</flowPara><flowPara
+   id="flowSpan105700">Theorem</flowSpan>: Let <flowSpan
+   style="font-weight:bold"
+   id="flowSpan113018">S</flowSpan> be the syntax generated by an algebraic signature <flowSpan
+   style="font-weight:bold"
+   id="flowSpan113020">Σ</flowSpan>.</flowPara><flowPara
          style="font-weight:normal;font-size:26.66666794px"
-         id="flowPara105698">Then any quotient Ψ of Σ generates a syntax (obtained by quotienting adequatly the syntax S)</flowPara></flowRoot>    <flowRoot
+         id="flowPara105698">Then any quotient <flowSpan
+   style="font-weight:bold"
+   id="flowSpan113022">Ψ</flowSpan> of <flowSpan
+   style="font-weight:bold"
+   id="flowSpan113024">Σ</flowSpan> generates a syntax (obtained by quotienting adequatly the syntax <flowSpan
+   style="font-weight:bold"
+   id="flowSpan113026">S</flowSpan>)</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.26458333,0,0,0.26458333,-4.3961537,-56.133032)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot105632"
