@@ -30,7 +30,7 @@
      inkscape:cx="494.27348"
      inkscape:cy="276.69596"
      inkscape:document-units="mm"
-     inkscape:current-layer="g105692"
+     inkscape:current-layer="g23818"
      showgrid="false"
      units="px"
      inkscape:window-width="1920"
@@ -1222,9 +1222,9 @@
                width="924.64172"
                id="rect20342" /></flowRegion><flowPara
              id="flowPara20348"
-             style="font-size:26.66666794px">Our<flowSpan
+             style="font-size:26.66666794px"><flowSpan
    id="flowSpan20346"
-   style="font-weight:bold"> signatures </flowSpan>are meant to specify (untyped) languages with variables and substitution (e.g. lambda-calculus).</flowPara><flowPara
+   style="font-weight:bold">Signatures </flowSpan>are meant to specify (untyped) languages with variables and substitution (e.g. lambda-calculus).</flowPara><flowPara
              id="flowPara20350"
              style="font-size:26.66666794px" /></flowRoot>        <flowRoot
            xml:space="preserve"
@@ -1238,7 +1238,7 @@
                x="71.043488"
                y="179.20021" /></flowRegion><flowPara
              style="font-size:26.66666794px"
-             id="flowPara20332">To any signature we associate a <flowSpan
+             id="flowPara20332">A signature is associated a <flowSpan
    style="font-weight:bold"
    id="flowSpan20361">category of models</flowSpan>.</flowPara><flowPara
              style="font-size:26.66666794px"
@@ -1246,11 +1246,15 @@
              style="font-size:26.66666794px"
              id="flowPara20357">The specified language (or <flowSpan
    style="font-weight:bold"
-   id="flowSpan20363">syntax</flowSpan>) is then characterized as the initial object in the category of models.</flowPara><flowPara
+   id="flowSpan20363">syntax</flowSpan>) is then characterized as the <flowSpan
+   style="font-weight:bold"
+   id="flowSpan23666">initial</flowSpan> object in the category of models.</flowPara><flowPara
              style="font-size:26.66666794px"
              id="flowPara20367" /><flowPara
              style="font-size:26.66666794px"
-             id="flowPara20365">This definition (in the spirit of initial semantics) is motivated by the recursion principle induced by the initiality property.</flowPara></flowRoot>      </g>
+             id="flowPara20365">This definition (in the spirit of initial semantics) is motivated by the <flowSpan
+   style="font-weight:bold"
+   id="flowSpan23664">recursion principle</flowSpan> induced by the initiality property.</flowPara></flowRoot>      </g>
     </g>
     <flowRoot
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -1279,7 +1283,7 @@
      style="display:none"
      inkscape:groupmode="layer"
      id="g3077"
-     inkscape:label="'Low-level' signatures">
+     inkscape:label="Classical signatures">
     <g
        id="g3059"
        transform="translate(6.6535756,0.38861357)">
@@ -1298,7 +1302,7 @@
                width="911.72473"
                id="rect3017" /></flowRegion><flowPara
              id="flowPara3021" /></flowRoot>        <flowRoot
-           transform="matrix(0.26458333,0,0,0.26458333,-11.210405,5.0226218)"
+           transform="matrix(0.26458333,0,0,0.26458333,-11.210405,-4.7277447)"
            style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
            id="flowRoot3228"
            xml:space="preserve"><flowRegion
@@ -1309,7 +1313,9 @@
                width="924.64172"
                id="rect3222" /></flowRegion><flowPara
              id="flowPara3226"
-             style="font-size:26.66666794px">A family of lists of natural numbers:</flowPara></flowRoot>        <flowRoot
+             style="font-size:26.66666794px">A <flowSpan
+   style="font-weight:bold"
+   id="flowSpan23668">classical signature</flowSpan> is a family of lists of natural numbers:</flowPara></flowRoot>        <flowRoot
            xml:space="preserve"
            id="flowRoot3035"
            style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -1322,18 +1328,6 @@
                y="179.20021" /></flowRegion><flowPara
              style="font-size:26.66666794px"
              id="flowPara3033">Two operations: </flowPara></flowRoot>        <flowRoot
-           xml:space="preserve"
-           id="flowRoot3220"
-           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-           transform="matrix(0.26458333,0,0,0.26458333,-13.204017,-9.5022724)"><flowRegion
-             id="flowRegion3216"><rect
-               id="rect3214"
-               width="924.64172"
-               height="396.12128"
-               x="71.043488"
-               y="179.20021" /></flowRegion><flowPara
-             style="font-weight:bold;font-size:26.66666794px"
-             id="flowPara3218">Example of low-level signatures:</flowPara></flowRoot>        <flowRoot
            transform="matrix(0.26458333,0,0,0.26458333,-13.204017,71.951052)"
            style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
            id="flowRoot3055"
@@ -1345,9 +1339,9 @@
                width="924.64172"
                id="rect3037" /></flowRegion><flowPara
              id="flowPara3053"
-             style="font-weight:bold;font-size:26.66666794px">Lambda-calculus:</flowPara></flowRoot>        <g
+             style="font-weight:bold;font-size:26.66666794px">Example : Lambda-calculus:</flowPara></flowRoot>        <g
            id="g3184"
-           transform="translate(0,-32.46741)">
+           transform="translate(0,-42.217777)">
           <flowRoot
              xml:space="preserve"
              id="flowRoot3174"
@@ -1374,7 +1368,7 @@
                id="flowPara3180"
                style="font-size:26.66666794px">each list specifies an operation in the language. </flowPara></flowRoot>        </g>
         <g
-           transform="translate(0,-20.220931)"
+           transform="translate(0,-29.971298)"
            id="g3202">
           <flowRoot
              xml:space="preserve"
@@ -1403,7 +1397,7 @@
                style="font-size:26.66666794px">the number of its arguments is the size of the list</flowPara></flowRoot>        </g>
         <g
            id="g3166"
-           transform="translate(0,-10.82247)">
+           transform="translate(0,-20.572837)">
           <g
              id="g3212"
              transform="translate(0,3.9872259)">
@@ -1506,7 +1500,7 @@
          id="flowPara3073"
          style="font-size:16px" /></flowRoot>  </g>
   <g
-     inkscape:label="'High-level' VS 'low-level' signatures"
+     inkscape:label="'High-level' VS classical signatures"
      id="g3269"
      inkscape:groupmode="layer"
      style="display:none">
@@ -1925,7 +1919,7 @@
   <g
      inkscape:groupmode="layer"
      id="g123651"
-     inkscape:label="Examples of monads"
+     inkscape:label="Examples of monads (à siupprimer ?)"
      style="display:none">
     <flowRoot
        xml:space="preserve"
@@ -2044,7 +2038,7 @@
            width="983.99988"
            id="rect123739" /></flowRegion><flowPara
          style="font-size:29.33333397px"
-         id="flowPara123745">- the (untyped) syntax of lambda-calculus modulo beta-reduction and eta-expansion</flowPara></flowRoot>    <flowRoot
+         id="flowPara123745">- the (untyped) syntax of lambda-calculus modulo beta-equivalence and eta-equivalence</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.26458333,0,0,0.26458333,4.1519234,-126.51154)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot18590"
@@ -2240,7 +2234,7 @@
    style="fill:#000000;stroke-width:0" />
 <polygon
    id="polygon124649"
-   points="184.04,654.74 184.04,655.14 183.07,655.14 183.07,664.31 184.04,664.31 184.04,664.7 182.68,664.7 182.68,654.74 "
+   points="183.07,655.14 183.07,664.31 184.04,664.31 184.04,664.7 182.68,664.7 182.68,654.74 184.04,654.74 184.04,655.14 "
    style="fill:#000000;stroke-width:0" />
 <path
    id="path124651"
@@ -2279,7 +2273,7 @@
    style="fill:#000000;stroke-width:0" />
 <polygon
    id="polygon124665"
-   points="225.48,664.7 224.12,664.7 224.12,664.31 225.08,664.31 225.08,655.14 224.12,655.14 224.12,654.74 225.48,654.74 "
+   points="224.12,664.31 225.08,664.31 225.08,655.14 224.12,655.14 224.12,654.74 225.48,654.74 225.48,664.7 224.12,664.7 "
    style="fill:#000000;stroke-width:0" />
 <path
    id="path124667"
@@ -2456,7 +2450,7 @@
            width="954.39014"
            id="rect11333" /></flowRegion><flowPara
          style="font-size:26.66666794px"
-         id="flowPara11337">Implicitely in this statment, we are considering the natural substitution on pairs of lambda-terms.</flowPara></flowRoot>    <flowRoot
+         id="flowPara23670">Implicitly in this statement, we are considering the natural substitution on pairs of lambda-terms.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot66065"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -2586,7 +2580,7 @@
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="path5358" />
 <polygon
-   points="169.55,664.31 170.52,664.31 170.52,664.7 169.15,664.7 169.15,654.74 170.52,654.74 170.52,655.14 169.55,655.14 "
+   points="169.15,654.74 170.52,654.74 170.52,655.14 169.55,655.14 169.55,664.31 170.52,664.31 170.52,664.7 169.15,664.7 "
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="polygon5360" />
 <path
@@ -2615,7 +2609,7 @@
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="path5370" />
 <polygon
-   points="202.97,664.31 202.97,655.14 202,655.14 202,654.74 203.36,654.74 203.36,664.7 202,664.7 202,664.31 "
+   points="203.36,654.74 203.36,664.7 202,664.7 202,664.31 202.97,664.31 202.97,655.14 202,655.14 202,654.74 "
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="polygon5372" />
 <path
@@ -2634,7 +2628,7 @@
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="path5378" />
 <polygon
-   points="223,664.31 223.97,664.31 223.97,664.7 222.61,664.7 222.61,654.74 223.97,654.74 223.97,655.14 223,655.14 "
+   points="222.61,654.74 223.97,654.74 223.97,655.14 223,655.14 223,664.31 223.97,664.31 223.97,664.7 222.61,664.7 "
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="polygon5380" />
 <path
@@ -2663,7 +2657,7 @@
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="path5390" />
 <polygon
-   points="256.42,664.31 256.42,655.14 255.45,655.14 255.45,654.74 256.82,654.74 256.82,664.7 255.45,664.7 255.45,664.31 "
+   points="256.82,654.74 256.82,664.7 255.45,664.7 255.45,664.31 256.42,664.31 256.42,655.14 255.45,655.14 255.45,654.74 "
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="polygon5392" />
 <path
@@ -2672,7 +2666,7 @@
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="path5394" />
 <polygon
-   points="267.49,664.31 268.45,664.31 268.45,664.7 267.09,664.7 267.09,654.74 268.45,654.74 268.45,655.14 267.49,655.14 "
+   points="267.09,654.74 268.45,654.74 268.45,655.14 267.49,655.14 267.49,664.31 268.45,664.31 268.45,664.7 267.09,664.7 "
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="polygon5396" />
 <path
@@ -2701,7 +2695,7 @@
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="path5406" />
 <polygon
-   points="300.91,664.31 300.91,655.14 299.94,655.14 299.94,654.74 301.31,654.74 301.31,664.7 299.94,664.7 299.94,664.31 "
+   points="301.31,654.74 301.31,664.7 299.94,664.7 299.94,664.31 300.91,664.31 300.91,655.14 299.94,655.14 299.94,654.74 "
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="polygon5408" />
 </g>  </g>
@@ -2937,7 +2931,7 @@
 <polygon
    id="polygon12059-7"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
-   points="283.95,652.75 283.95,642.79 285.31,642.79 285.31,643.18 284.35,643.18 284.35,652.35 285.31,652.35 285.31,652.75 " />
+   points="284.35,643.18 284.35,652.35 285.31,652.35 285.31,652.75 283.95,652.75 283.95,642.79 285.31,642.79 285.31,643.18 " />
 <path
    id="path12061-4"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
@@ -2961,7 +2955,7 @@
 <polygon
    id="polygon12069-7"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
-   points="312.65,642.79 314.01,642.79 314.01,652.75 312.65,652.75 312.65,652.35 313.61,652.35 313.61,643.18 312.65,643.18 " />
+   points="312.65,652.35 313.61,652.35 313.61,643.18 312.65,643.18 312.65,642.79 314.01,642.79 314.01,652.75 312.65,652.75 " />
 <path
    id="path12071-8"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
@@ -5146,7 +5140,7 @@
      inkscape:groupmode="layer"
      id="g105692"
      inkscape:label="Examples of presentable signatures"
-     style="display:inline">
+     style="display:none">
     <flowRoot
        xml:space="preserve"
        id="flowRoot105498"
@@ -5429,6 +5423,254 @@
          style="font-size:26.66666794px"
          id="flowPara23638">Presentable signatures allow to extend syntax generated by algebraic (or low-level) signatures with new kinds of operations.</flowPara></flowRoot>  </g>
   <g
+     style="display:inline"
+     inkscape:label="FIN PROVISOIRE"
+     id="g23818"
+     inkscape:groupmode="layer">
+    <flowRoot
+       transform="scale(0.26458333)"
+       style="font-style:normal;font-weight:normal;font-size:26.66666794px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot23680"
+       xml:space="preserve"><flowRegion
+         style="font-size:26.66666794px"
+         id="flowRegion23676"><rect
+           style="font-size:26.66666794px"
+           y="156.7188"
+           x="34.306599"
+           height="551.24469"
+           width="969.16138"
+           id="rect23674" /></flowRegion><flowPara
+         id="flowPara23678" /></flowRoot>    <flowRoot
+       transform="scale(0.26458333)"
+       style="font-style:normal;font-weight:normal;font-size:26.66666603px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot23688"
+       xml:space="preserve"><flowRegion
+         style="font-size:26.66666603px"
+         id="flowRegion23684"><rect
+           style="font-size:26.66666603px"
+           y="210.46155"
+           x="46.153847"
+           height="126.46154"
+           width="902.76923"
+           id="rect23682" /></flowRegion><flowPara
+         id="flowPara23686" /></flowRoot>    <flowRoot
+       style="font-style:normal;font-weight:normal;font-size:32px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot23696"
+       xml:space="preserve"><flowRegion
+         style="font-size:32px"
+         id="flowRegion23692"><rect
+           style="font-size:32px"
+           y="516"
+           x="469.84616"
+           height="69.230766"
+           width="161.53845"
+           id="rect23690" /></flowRegion><flowPara
+         id="flowPara23694" /></flowRoot>    <flowRoot
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot23704"
+       xml:space="preserve"><flowRegion
+         id="flowRegion23700"><rect
+           y="268.61539"
+           x="49.846153"
+           height="90.733269"
+           width="343.17953"
+           id="rect23698" /></flowRegion><flowPara
+         id="flowPara23702" /></flowRoot>    <flowRoot
+       transform="scale(0.26458333)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot23712"
+       xml:space="preserve"><flowRegion
+         id="flowRegion23708"><rect
+           y="403.38461"
+           x="438.46152"
+           height="320.30768"
+           width="627.69232"
+           id="rect23706" /></flowRegion><flowPara
+         id="flowPara23710" /></flowRoot>    <flowRoot
+       transform="scale(0.26458333)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot23720"
+       xml:space="preserve"><flowRegion
+         id="flowRegion23716"><rect
+           y="296.30771"
+           x="40.615383"
+           height="170.76923"
+           width="422.76923"
+           id="rect23714" /></flowRegion><flowPara
+         id="flowPara23718" /></flowRoot>    <flowRoot
+       transform="scale(0.26458333)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot23728"
+       xml:space="preserve"><flowRegion
+         id="flowRegion23724"><rect
+           y="304.61539"
+           x="36"
+           height="177.23077"
+           width="595.38458"
+           id="rect23722" /></flowRegion><flowPara
+         id="flowPara23726" /></flowRoot>    <flowRoot
+       transform="scale(0.26458333)"
+       style="font-style:normal;font-weight:normal;font-size:26.66666603px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot23736"
+       xml:space="preserve"><flowRegion
+         style="font-size:26.66666603px"
+         id="flowRegion23732"><rect
+           style="font-size:26.66666603px"
+           y="325.84616"
+           x="63.692307"
+           height="179.07692"
+           width="895.38458"
+           id="rect23730" /></flowRegion><flowPara
+         id="flowPara23734" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="28.819231"
+       y="170.22885"
+       id="text23740"><tspan
+         sodipodi:role="line"
+         id="tspan23738"
+         x="28.819231"
+         y="179.59262"
+         style="stroke-width:0.26458332" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot23748"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion23744"><rect
+           id="rect23742"
+           width="169.84615"
+           height="41.53846"
+           x="512.30768"
+           y="576.9231" /></flowRegion><flowPara
+         id="flowPara23746" /></flowRoot>    <flowRoot
+       transform="scale(0.26458333)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot23756"
+       xml:space="preserve"><flowRegion
+         id="flowRegion23752"><rect
+           y="660"
+           x="105.23077"
+           height="70.153847"
+           width="723.69232"
+           id="rect23750" /></flowRegion><flowPara
+         id="flowPara23754" /></flowRoot>    <flowRoot
+       transform="scale(0.26458333)"
+       style="font-style:normal;font-weight:normal;font-size:26.66666603px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot23764"
+       xml:space="preserve"><flowRegion
+         style="font-size:26.66666603px"
+         id="flowRegion23760"><rect
+           style="font-size:26.66666603px"
+           y="506.76923"
+           x="36.923077"
+           height="53.53846"
+           width="463.38461"
+           id="rect23758" /></flowRegion><flowPara
+         id="flowPara23762" /></flowRoot>    <g
+       ns0:jacobian_sqrt="0.881944"
+       inkscapeversion="0.92.3"
+       ns0:alignment="middle center"
+       ns0:scale="2.50000008505"
+       ns0:preamble="/home/amblaf/.config/inkscape/extensions/default_packages.tex"
+       ns0:text="\\[\n\\Sigma(f)_Y(e[x \\mapsto t_x]_{\\Sigma_R})\n=\n\\Sigma(f)_X(e)[x \\mapsto f_X(t_x)]_{\\Sigma_R\'}\n\\]"
+       ns0:pdfconverter="pstoedit"
+       ns0:texconverter="pdflatex"
+       ns0:version="0.8.0"
+       word-spacing="normal"
+       letter-spacing="normal"
+       font-size-adjust="none"
+       font-stretch="normal"
+       font-weight="normal"
+       font-variant="normal"
+       font-style="normal"
+       stroke-miterlimit="10.433"
+       xml:space="preserve"
+       transform="matrix(0.78113333,0,0,-0.78113333,-61.91656,596.81056)"
+       id="g23766"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;display:inline;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       ns1:effectIn="name:appear;order:3;length:800">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</g>    <flowRoot
+       transform="scale(0.26458333)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot23774"
+       xml:space="preserve"><flowRegion
+         id="flowRegion23770"><rect
+           y="540.47778"
+           x="25.180328"
+           height="116.00937"
+           width="525.1897"
+           id="rect23768" /></flowRegion><flowPara
+         id="flowPara23772" /></flowRoot>    <flowRoot
+       transform="scale(0.26458333)"
+       style="font-style:normal;font-weight:normal;font-size:26.66666603px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot23782"
+       xml:space="preserve"><flowRegion
+         style="font-size:26.66666603px"
+         id="flowRegion23778"><rect
+           style="font-size:26.66666603px"
+           y="293.17096"
+           x="26.079624"
+           height="377.70493"
+           width="904.69318"
+           id="rect23776" /></flowRegion><flowPara
+         id="flowPara23780" /></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,-3.6564306,-97.547209)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot23816"
+       xml:space="preserve"><flowRegion
+         style="line-height:1"
+         id="flowRegion23812"><rect
+           style="line-height:1"
+           y="512.30768"
+           x="42.461536"
+           height="189.63942"
+           width="967.19867"
+           id="rect23810" /></flowRegion><flowPara
+         id="flowPara23814"
+         style="font-size:26.66666794px">Ne pas lire les slides qui suivent (ce sont des anciennes slides que je garde au cas où).</flowPara></flowRoot>  </g>
+  <g
      inkscape:groupmode="layer"
      id="g3663"
      inkscape:label="Copie de Languages as monads"
@@ -5692,7 +5934,7 @@
 <polygon
    id="polygon3617"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
-   points="300.64,642.79 302,642.79 302,643.18 301.03,643.18 301.03,652.35 302,652.35 302,652.75 300.64,652.75 " />
+   points="301.03,652.35 302,652.35 302,652.75 300.64,652.75 300.64,642.79 302,642.79 302,643.18 301.03,643.18 " />
 <path
    id="path3619"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
@@ -5721,7 +5963,7 @@
 <polygon
    id="polygon3629"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
-   points="332.93,642.79 332.93,652.75 331.57,652.75 331.57,652.35 332.54,652.35 332.54,643.18 331.57,643.18 331.57,642.79 " />
+   points="332.54,652.35 332.54,643.18 331.57,643.18 331.57,642.79 332.93,642.79 332.93,652.75 331.57,652.75 331.57,652.35 " />
 <path
    id="path3631"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
@@ -5770,7 +6012,7 @@
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="path3641" />
 <polygon
-   points="285.31,652.35 285.31,652.75 283.95,652.75 283.95,642.79 285.31,642.79 285.31,643.18 284.35,643.18 284.35,652.35 "
+   points="285.31,642.79 285.31,643.18 284.35,643.18 284.35,652.35 285.31,652.35 285.31,652.75 283.95,652.75 283.95,642.79 "
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="polygon3643" />
 <path
@@ -5794,7 +6036,7 @@
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="path3651" />
 <polygon
-   points="313.61,643.18 312.65,643.18 312.65,642.79 314.01,642.79 314.01,652.75 312.65,652.75 312.65,652.35 313.61,652.35 "
+   points="314.01,652.75 312.65,652.75 312.65,652.35 313.61,652.35 313.61,643.18 312.65,643.18 312.65,642.79 314.01,642.79 "
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="polygon3653" />
 <path
@@ -6866,7 +7108,7 @@
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="path166977" />
 <polygon
-   points="248.63,652.35 249.6,652.35 249.6,652.75 248.23,652.75 248.23,642.79 249.6,642.79 249.6,643.18 248.63,643.18 "
+   points="248.23,642.79 249.6,642.79 249.6,643.18 248.63,643.18 248.63,652.35 249.6,652.35 249.6,652.75 248.23,652.75 "
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="polygon166979" />
 <path
@@ -6895,7 +7137,7 @@
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="path166989" />
 <polygon
-   points="283.03,652.35 283.03,643.18 282.06,643.18 282.06,642.79 283.43,642.79 283.43,652.75 282.06,652.75 282.06,652.35 "
+   points="283.43,642.79 283.43,652.75 282.06,652.75 282.06,652.35 283.03,652.35 283.03,643.18 282.06,643.18 282.06,642.79 "
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="polygon166991" />
 <path
