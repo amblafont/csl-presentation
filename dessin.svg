@@ -26,11 +26,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.78693623"
-     inkscape:cx="494.27348"
-     inkscape:cy="276.69596"
+     inkscape:zoom="1.0696051"
+     inkscape:cx="478.30379"
+     inkscape:cy="383.64283"
      inkscape:document-units="mm"
-     inkscape:current-layer="g23818"
+     inkscape:current-layer="layer3"
      showgrid="false"
      units="px"
      inkscape:window-width="1920"
@@ -1147,7 +1147,7 @@
          sodipodi:role="line">/</tspan></text>
   </g>
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:label="TITRE"
      id="layer3"
      inkscape:groupmode="layer">
@@ -1159,35 +1159,55 @@
        x="0.11338885"
        y="-1.20952" />
     <text
-       id="text3098"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499995px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="13.709046"
+       y="126.1469"
        xml:space="preserve"
-       y="94.606972"><tspan
-         id="tspan3102"
+       x="9.898016"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.3628428px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2802369"
+       id="text3400"><tspan
+         y="126.1469"
+         x="9.898016"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.20947552px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.2802369"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
-         x="13.709046"
-         y="94.606972">High-level signatures and </tspan><tspan
-         id="tspan13897"
+         id="tspan3398"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.47298384px;line-height:99.90000129%;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.2802369"
+   id="tspan3396">joint work with Benedikt Ahrens, André Hirschowitz, Marco Maggesi</tspan> </tspan></text>
+    <text
+       y="109.90287"
+       xml:space="preserve"
+       x="100.81214"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.3628428px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2802369"
+       id="text3428"><tspan
+         y="109.90287"
+         x="100.81214"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.20947552px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.2802369"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
-         x="13.709046"
-         y="107.83614">initial semantics</tspan></text>
+         id="tspan3426"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.47298384px;line-height:99.90000129%;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.2802369"
+           id="tspan3424">Ambroise Lafont</tspan></tspan></text>
     <text
        id="text3098-3"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499995px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="13.106225"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.3628428px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2802369"
+       x="110.95412"
        xml:space="preserve"
-       y="137.04329"><tspan
+       y="178.67047"><tspan
          id="tspan13897-7"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
-         x="13.106225"
-         y="137.04329"><tspan
-   id="tspan22638"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:99.90000129%;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.26458332">B. Ahrens, A. Hirschowitz, A. Lafont, M. Maggesi</tspan> </tspan></text>
-  </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.2802369"
+         x="110.95412"
+         y="178.67047">CSL 2018</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3408"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,7.915694,-36.362719)"><flowRegion
+         id="flowRegion3410"><rect
+           id="rect3412"
+           width="589.00244"
+           height="122.47511"
+           x="183.24519"
+           y="254.72646" /></flowRegion><flowPara
+         id="flowPara3416"
+         style="font-weight:bold;text-align:center;text-anchor:middle;fill:#ffffff">High-level signatures and initial semantics</flowPara></flowRoot>  </g>
   <g
      inkscape:label="Introduction"
      id="layer4"
@@ -4846,8 +4866,7 @@
        xml:space="preserve"
        transform="matrix(0.78113333,0,0,-0.78113333,-61.91656,596.81056)"
        id="g97274"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;display:inline;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       >
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;display:inline;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">
 
 
 
@@ -5421,7 +5440,7 @@
          style="font-size:26.66666794px"
          id="flowPara23638">Presentable signatures allow to extend syntax generated by algebraic (or low-level) signatures with new kinds of operations.</flowPara></flowRoot>  </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="FIN PROVISOIRE"
      id="g23818"
      inkscape:groupmode="layer">
