@@ -30,7 +30,7 @@
      inkscape:cx="511.42862"
      inkscape:cy="452.62286"
      inkscape:document-units="mm"
-     inkscape:current-layer="g63295"
+     inkscape:current-layer="g107407"
      showgrid="false"
      units="px"
      inkscape:window-width="1920"
@@ -2009,7 +2009,7 @@
          style="font-size:29.33333588px"
          id="flowPara19306-1">The substitution is required to statisfy some intuitive equations.</flowPara></flowRoot>  </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="Operations as module morphisms"
      id="g63295"
      inkscape:groupmode="layer">
@@ -2055,7 +2055,7 @@
        xml:space="preserve"
        id="flowRoot11331"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,34.725819,32.805066)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,34.725819,28.042564)"><flowRegion
          id="flowRegion11325"><rect
            id="rect11323"
            width="965.53845"
@@ -2066,7 +2066,7 @@
          id="flowPara11329"><flowSpan
            style="font-weight:bold"
            id="flowSpan11327"> application commutes with substitution</flowSpan></flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,110.53581,19.791857)"
+       transform="matrix(0.26458333,0,0,0.26458333,110.53581,15.029355)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot63033"
        xml:space="preserve"><flowRegion
@@ -2111,7 +2111,7 @@
            width="627.69232"
            id="rect63083" /></flowRegion><flowPara
          id="flowPara63087" /></flowRoot>    <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,-2.7785272,-28.929851)"
+       transform="matrix(0.26458333,0,0,0.26458333,-2.7785272,-36.338189)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot18864"
        xml:space="preserve"><flowRegion
@@ -2127,22 +2127,26 @@
          style="font-size:26.66666794px" /><flowPara
          id="flowPara18950"
          style="font-size:26.66666794px">considering the obvious substitution on pairs of lambda terms.</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,-2.7785272,20.947253)"
+       transform="matrix(0.26458333,0,0,0.26458333,-2.7785272,13.009748)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot66065"
        xml:space="preserve"><flowRegion
          id="flowRegion66067"><rect
            y="532.61542"
            x="40.615383"
-           height="208.30588"
-           width="954.39014"
+           height="205.04984"
+           width="1012.9984"
            id="rect66069" /></flowRegion><flowPara
          style="font-size:26.66666794px"
-         id="flowPara11309">We say that pairs of lambda-terms form a <flowSpan
+         id="flowPara11309">We abstract this situation as follows:</flowPara><flowPara
+         style="font-size:26.66666794px"
+         id="flowPara26209">- pairs of lambda-terms form a <flowSpan
    style="font-weight:bold"
-   id="flowSpan11345">module </flowSpan>over the lambda-calculus monad, and application is a <flowSpan
+   id="flowSpan11345">module </flowSpan>over the lambda-calculus monad,</flowPara><flowPara
+         style="font-size:26.66666794px"
+         id="flowPara26213">- application is a <flowSpan
    style="font-weight:bold"
-   id="flowSpan11341">module morphism</flowSpan>.</flowPara></flowRoot>    <flowRoot
+   id="flowSpan11341">module morphism </flowSpan></flowPara></flowRoot>    <flowRoot
        transform="matrix(0.26458333,0,0,0.26458333,-38.252241,59.43174)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot66075"
@@ -2258,7 +2262,7 @@
 <polygon
    id="polygon5360"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
-   points="169.55,655.14 169.55,664.31 170.52,664.31 170.52,664.7 169.15,664.7 169.15,654.74 170.52,654.74 170.52,655.14 " />
+   points="170.52,664.31 170.52,664.7 169.15,664.7 169.15,654.74 170.52,654.74 170.52,655.14 169.55,655.14 169.55,664.31 " />
 <path
    id="path5362"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
@@ -2287,7 +2291,7 @@
 <polygon
    id="polygon5372"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
-   points="202,664.31 202.97,664.31 202.97,655.14 202,655.14 202,654.74 203.36,654.74 203.36,664.7 202,664.7 " />
+   points="202.97,655.14 202,655.14 202,654.74 203.36,654.74 203.36,664.7 202,664.7 202,664.31 202.97,664.31 " />
 <path
    id="path5374"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
@@ -2306,7 +2310,7 @@
 <polygon
    id="polygon5380"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
-   points="223,655.14 223,664.31 223.97,664.31 223.97,664.7 222.61,664.7 222.61,654.74 223.97,654.74 223.97,655.14 " />
+   points="223.97,664.31 223.97,664.7 222.61,664.7 222.61,654.74 223.97,654.74 223.97,655.14 223,655.14 223,664.31 " />
 <path
    id="path5382"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
@@ -2335,7 +2339,7 @@
 <polygon
    id="polygon5392"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
-   points="255.45,664.31 256.42,664.31 256.42,655.14 255.45,655.14 255.45,654.74 256.82,654.74 256.82,664.7 255.45,664.7 " />
+   points="256.42,655.14 255.45,655.14 255.45,654.74 256.82,654.74 256.82,664.7 255.45,664.7 255.45,664.31 256.42,664.31 " />
 <path
    id="path5394"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
@@ -2344,7 +2348,7 @@
 <polygon
    id="polygon5396"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
-   points="267.49,655.14 267.49,664.31 268.45,664.31 268.45,664.7 267.09,664.7 267.09,654.74 268.45,654.74 268.45,655.14 " />
+   points="268.45,664.31 268.45,664.7 267.09,664.7 267.09,654.74 268.45,654.74 268.45,655.14 267.49,655.14 267.49,664.31 " />
 <path
    id="path5398"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
@@ -2373,7 +2377,7 @@
 <polygon
    id="polygon5408"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
-   points="299.94,664.31 300.91,664.31 300.91,655.14 299.94,655.14 299.94,654.74 301.31,654.74 301.31,664.7 299.94,664.7 " />
+   points="300.91,655.14 299.94,655.14 299.94,654.74 301.31,654.74 301.31,664.7 299.94,664.7 299.94,664.31 300.91,664.31 " />
 </g>    <g
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        ns0:jacobian_sqrt="0.881944"
@@ -2394,7 +2398,7 @@
        font-style="normal"
        stroke-miterlimit="10.433"
        xml:space="preserve"
-       transform="matrix(0.881944,0,0,-0.881944,-86.429606,647.45753)"
+       transform="matrix(0.881944,0,0,-0.881944,-86.429606,642.69501)"
        id="g4934">
 <path
    id="path4856"
@@ -2439,7 +2443,7 @@
 <polygon
    id="polygon4872"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
-   points="187.81,655.14 187.81,664.31 188.78,664.31 188.78,664.7 187.42,664.7 187.42,654.74 188.78,654.74 188.78,655.14 " />
+   points="188.78,664.31 188.78,664.7 187.42,664.7 187.42,654.74 188.78,654.74 188.78,655.14 187.81,655.14 187.81,664.31 " />
 <path
    id="path4874"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
@@ -2468,7 +2472,7 @@
 <polygon
    id="polygon4884"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
-   points="220.26,664.31 221.23,664.31 221.23,655.14 220.26,655.14 220.26,654.74 221.63,654.74 221.63,664.7 220.26,664.7 " />
+   points="221.23,655.14 220.26,655.14 220.26,654.74 221.63,654.74 221.63,664.7 220.26,664.7 220.26,664.31 221.23,664.31 " />
 <path
    id="path4886"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
@@ -2507,7 +2511,7 @@
 <polygon
    id="polygon4900"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
-   points="261.19,655.14 261.19,664.31 262.16,664.31 262.16,664.7 260.8,664.7 260.8,654.74 262.16,654.74 262.16,655.14 " />
+   points="262.16,664.31 262.16,664.7 260.8,664.7 260.8,654.74 262.16,654.74 262.16,655.14 261.19,655.14 261.19,664.31 " />
 <path
    id="path4902"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
@@ -2536,7 +2540,7 @@
 <polygon
    id="polygon4912"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
-   points="293.64,664.31 294.61,664.31 294.61,655.14 293.64,655.14 293.64,654.74 295.01,654.74 295.01,664.7 293.64,664.7 " />
+   points="294.61,655.14 293.64,655.14 293.64,654.74 295.01,654.74 295.01,664.7 293.64,664.7 293.64,664.31 294.61,664.31 " />
 <path
    id="path4914"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
@@ -2550,7 +2554,7 @@
 <polygon
    id="polygon4918"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
-   points="307.9,655.14 307.9,664.31 308.86,664.31 308.86,664.7 307.5,664.7 307.5,654.74 308.86,654.74 308.86,655.14 " />
+   points="308.86,664.31 308.86,664.7 307.5,664.7 307.5,654.74 308.86,654.74 308.86,655.14 307.9,655.14 307.9,664.31 " />
 <path
    id="path4920"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
@@ -2579,7 +2583,7 @@
 <polygon
    id="polygon4930"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
-   points="340.34,664.31 341.31,664.31 341.31,655.14 340.34,655.14 340.34,654.74 341.71,654.74 341.71,664.7 340.34,664.7 " />
+   points="341.31,655.14 340.34,655.14 340.34,654.74 341.71,654.74 341.71,664.7 340.34,664.7 340.34,664.31 341.31,664.31 " />
 <path
    id="path4932"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
@@ -2605,7 +2609,7 @@
        font-style="normal"
        stroke-miterlimit="10.433"
        xml:space="preserve"
-       transform="matrix(0.881944,0,0,-0.881944,-83.355823,714.21105)"
+       transform="matrix(0.881944,0,0,-0.881944,-83.355823,706.80267)"
        id="g19582">
 <path
    id="path19514"
@@ -3063,7 +3067,7 @@
      inkscape:groupmode="layer"
      id="g107407"
      inkscape:label="Examples of modules"
-     style="display:none">
+     style="display:inline">
     <flowRoot
        xml:space="preserve"
        id="flowRoot107207"
@@ -3205,13 +3209,17 @@
          id="flowPara107295"
          style="font-size:29.33333397px">- <flowSpan
    style="font-weight:bold"
-   id="flowSpan107411">R x R </flowSpan>(i.e. pairs of expressions of <flowSpan
+   id="flowSpan107411">R <flowSpan
+   style="font-weight:normal"
+   id="flowSpan26220">x</flowSpan> R </flowSpan>(i.e. pairs of expressions of <flowSpan
    id="flowSpan23535"
    style="font-weight:bold">R</flowSpan>)</flowPara><flowPara
          style="font-size:29.33333397px"
          id="flowPara107429">-<flowSpan
    style="font-weight:bold"
-   id="flowSpan107431"> M x N </flowSpan>for any module M and N</flowPara><flowPara
+   id="flowSpan107431"> M <flowSpan
+   style="font-weight:normal"
+   id="flowSpan26218">x</flowSpan> N </flowSpan>for any module M and N</flowPara><flowPara
          style="font-size:29.33333397px"
          id="flowPara107413" /><flowPara
          id="flowPara107299"
@@ -3329,12 +3337,14 @@
          style="font-size:7.05555534px;stroke-width:0.26458332"
          y="179.48367"
          x="9.5571222"
-         sodipodi:role="line">The new variable x is used to model an operation binding a variable </tspan><tspan
+         sodipodi:role="line">The new variable <tspan
+   style="font-weight:bold"
+   id="tspan26216">x</tspan> is used to model an operation binding a variable </tspan><tspan
          id="tspan23567"
          style="font-size:7.05555534px;stroke-width:0.26458332"
          y="192.71284"
          x="9.5571222"
-         sodipodi:role="line">(e.g. the lambda-abstraction)</tspan></text>
+         sodipodi:role="line">(e.g. the lambda-abstraction).</tspan></text>
   </g>
   <g
      style="display:none"
