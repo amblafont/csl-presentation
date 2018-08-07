@@ -27,10 +27,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0833333"
-     inkscape:cx="528.0188"
-     inkscape:cy="314.72527"
+     inkscape:cx="504.04401"
+     inkscape:cy="269.87628"
      inkscape:document-units="mm"
-     inkscape:current-layer="g40927"
+     inkscape:current-layer="g776"
      showgrid="false"
      units="px"
      inkscape:window-width="1920"
@@ -1237,7 +1237,7 @@
          style="font-weight:bold;text-align:center;text-anchor:middle;fill:#ffffff"
          id="flowPara3416">High-level signatures and initial semantics</flowPara></flowRoot>  </g>
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Introduction">
@@ -1259,10 +1259,28 @@
                width="911.72473"
                id="rect20300" /></flowRegion><flowPara
              id="flowPara20302" /></flowRoot>        <flowRoot
+           transform="matrix(0.26458333,0,0,0.26458333,-14.058423,-6.9390561)"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="flowRoot4687"
+           xml:space="preserve"><flowRegion
+             id="flowRegion4677"><rect
+               y="179.20021"
+               x="71.043488"
+               height="396.12128"
+               width="924.64172"
+               id="rect4675" /></flowRegion><flowPara
+             id="flowPara4683"
+             style="font-size:26.66666794px"><flowSpan
+   id="flowSpan4679"
+   style="font-weight:bold">Ultimate goal</flowSpan>: (untyped) languages with variables and substitution <flowSpan
+   id="flowSpan4681"
+   style="font-weight:bold">Classical signatures</flowSpan>: a combinatorial specification of a language as families of lists of natural numbers:</flowPara><flowPara
+             id="flowPara4685"
+             style="font-size:26.66666794px" /></flowRoot>        <flowRoot
            xml:space="preserve"
            id="flowRoot20352"
            style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-           transform="matrix(0.26458333,0,0,0.26458333,-14.058423,-6.9390561)"><flowRegion
+           transform="matrix(0.26458333,0,0,0.26458333,-14.058423,133.41222)"><flowRegion
              id="flowRegion20344"><rect
                id="rect20342"
                width="924.64172"
@@ -1270,7 +1288,9 @@
                x="71.043488"
                y="179.20021" /></flowRegion><flowPara
              style="font-size:26.66666794px"
-             id="flowPara20348">We are interested in signatures specifying (untyped) languages with variables and substitution (e.g. lambda-calculus).</flowPara><flowPara
+             id="flowPara20348"><flowSpan
+   style="font-weight:bold"
+   id="flowSpan4689">This work</flowSpan>: a general notion of signature</flowPara><flowPara
              style="font-size:26.66666794px"
              id="flowPara20350" /></flowRoot>        <flowRoot
            transform="matrix(0.26458333,0,0,0.26458333,-13.068961,192.7019)"
@@ -1327,7 +1347,7 @@
            y="483.52332" /></flowRegion><flowPara
          id="flowPara587"
          style="font-size:16px" /></flowRoot>    <g
-       transform="translate(4.6772232,26.713471)"
+       transform="translate(4.6772232,19.50866)"
        id="g3059-8"
        style="display:inline">
       <g
@@ -1356,13 +1376,11 @@
                x="71.043488"
                y="179.20021" /></flowRegion><flowPara
              style="font-size:26.66666794px"
-             id="flowPara3226-4">A family of lists of natural numbers yields a combinatorial<flowSpan
-   id="flowSpan4042"
-   style="font-weight:bold"> </flowSpan>signature:</flowPara></flowRoot>        <flowRoot
+             id="flowPara3226-4" /></flowRoot>        <flowRoot
            xml:space="preserve"
            id="flowRoot3055-4"
            style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-           transform="matrix(0.26458333,0,0,0.26458333,-13.204017,68.500561)"><flowRegion
+           transform="matrix(0.26458333,0,0,0.26458333,-13.204017,62.150557)"><flowRegion
              id="flowRegion3039-9"><rect
                id="rect3037-1"
                width="924.64172"
@@ -1459,7 +1477,7 @@
                  id="flowPara3148-6">each natural number in the list indicates the number of bound variables in the corresponding argument</flowPara></flowRoot>          </g>
         </g>
         <flowRoot
-           transform="matrix(0.26458333,0,0,0.26458333,-9.3892848,12.960418)"
+           transform="matrix(0.26458333,0,0,0.26458333,-9.3892848,3.4354159)"
            style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
            id="flowRoot3230-3"
            xml:space="preserve"><flowRegion
@@ -1481,7 +1499,7 @@
            xml:space="preserve"
            id="flowRoot3256-7"
            style="font-style:normal;font-weight:normal;font-size:26.66666794px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-           transform="matrix(0.26458333,0,0,0.26458333,-20.893668,-25.18692)"><flowRegion
+           transform="matrix(0.26458333,0,0,0.26458333,-20.893668,-34.711926)"><flowRegion
              id="flowRegion3252-2"
              style="font-size:26.66666794px"><rect
                id="rect3250-5"
@@ -1492,7 +1510,7 @@
                style="font-size:26.66666794px" /></flowRegion><flowPara
              style="fill:#800080"
              id="flowPara3254-8">application (2 arguments)</flowPara></flowRoot>        <flowRoot
-           transform="matrix(0.26458333,0,0,0.26458333,106.16539,-31.212939)"
+           transform="matrix(0.26458333,0,0,0.26458333,106.16539,-40.737945)"
            style="font-style:normal;font-weight:normal;font-size:26.66666794px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
            id="flowRoot3242-9"
            xml:space="preserve"><flowRegion
@@ -1877,7 +1895,7 @@
      inkscape:groupmode="layer"
      id="g40927"
      inkscape:label="Monads"
-     style="display:inline">
+     style="display:none">
     <flowRoot
        xml:space="preserve"
        id="flowRoot40791"
@@ -3265,31 +3283,31 @@
            x="13.846154"
            y="683.0769" /></flowRegion><flowPara
          id="flowPara107283"
-         style="font-size:29.33333397px">Some examples of modules over a monad <flowSpan
-   style="font-weight:bold"
+         style="font-size:26.66666794px">Some examples of modules over a monad <flowSpan
+   style="font-weight:bold;font-size:26.66666794px"
    id="flowSpan107437">R</flowSpan>:</flowPara><flowPara
          id="flowPara107285"
-         style="font-size:29.33333397px">- <flowSpan
-   style="font-weight:bold"
+         style="font-size:26.66666794px">- <flowSpan
+   style="font-weight:bold;font-size:26.66666794px"
    id="flowSpan107409">R</flowSpan> itself </flowPara><flowPara
          id="flowPara107295"
-         style="font-size:29.33333397px">- <flowSpan
-   style="font-weight:bold"
+         style="font-size:26.66666794px">- <flowSpan
+   style="font-weight:bold;font-size:26.66666794px"
    id="flowSpan107411">R <flowSpan
-   style="font-weight:normal"
+   style="font-weight:normal;font-size:26.66666794px"
    id="flowSpan26220">x</flowSpan> R </flowSpan>(i.e. pairs of expressions of <flowSpan
    id="flowSpan23535"
-   style="font-weight:bold">R</flowSpan>)</flowPara><flowPara
-         style="font-size:29.33333397px"
+   style="font-weight:bold;font-size:26.66666794px">R</flowSpan>)</flowPara><flowPara
+         style="font-size:26.66666794px"
          id="flowPara107429">-<flowSpan
-   style="font-weight:bold"
+   style="font-weight:bold;font-size:26.66666794px"
    id="flowSpan107431"> M <flowSpan
-   style="font-weight:normal"
+   style="font-weight:normal;font-size:26.66666794px"
    id="flowSpan26218">x</flowSpan> N </flowSpan>for any module M and N</flowPara><flowPara
-         style="font-size:29.33333397px"
+         style="font-size:26.66666794px"
          id="flowPara107413" /><flowPara
          id="flowPara107299"
-         style="font-size:29.33333397px">   </flowPara></flowRoot>    <flowRoot
+         style="font-size:26.66666794px">   </flowPara></flowRoot>    <flowRoot
        transform="scale(0.26458333)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot107405"
@@ -4816,7 +4834,11 @@
            width="928.33942"
            id="rect60357" /></flowRegion><flowPara
          style="font-size:26.66666794px"
-         id="flowPara60361">Question: cette section est-elle vraiment éncessaire, puisque on n'a pas vraiment de contribution là-dedans ? (ca fait partie du background initial semantics, non ?)</flowPara></flowRoot>  </g>
+         id="flowPara60361">Question: cette section est-elle vraiment éncessaire, puisque on n'a pas vraiment de contribution là-dedans ? (ca fait partie du background initial semantics, non ?).</flowPara><flowPara
+         style="font-size:26.66666794px"
+         id="flowPara60836" /><flowPara
+         style="font-size:26.66666794px"
+         id="flowPara60838">Benedikt suggère de ne pas faire plus d'une slide là dessus</flowPara></flowRoot>  </g>
   <g
      inkscape:label="Recursion"
      id="g76473"
@@ -7424,7 +7446,7 @@
    style="fill:#000000;stroke-width:0" />
 <polygon
    id="polygon57466"
-   points="155.99,655.14 155.99,664.31 156.96,664.31 156.96,664.7 155.59,664.7 155.59,654.74 156.96,654.74 156.96,655.14 "
+   points="155.59,664.7 155.59,654.74 156.96,654.74 156.96,655.14 155.99,655.14 155.99,664.31 156.96,664.31 156.96,664.7 "
    style="fill:#000000;stroke-width:0" />
 <path
    id="path57468"
@@ -7473,7 +7495,7 @@
    style="fill:#000000;stroke-width:0" />
 <polygon
    id="polygon57486"
-   points="214.7,664.31 215.66,664.31 215.66,655.14 214.7,655.14 214.7,654.74 216.06,654.74 216.06,664.7 214.7,664.7 "
+   points="214.7,654.74 216.06,654.74 216.06,664.7 214.7,664.7 214.7,664.31 215.66,664.31 215.66,655.14 214.7,655.14 "
    style="fill:#000000;stroke-width:0" />
 <path
    id="path57488"
@@ -7630,7 +7652,7 @@
 <polygon
    id="polygon57542"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
-   points="155.59,654.74 156.96,654.74 156.96,655.14 155.99,655.14 155.99,664.31 156.96,664.31 156.96,664.7 155.59,664.7 " />
+   points="155.99,664.31 156.96,664.31 156.96,664.7 155.59,664.7 155.59,654.74 156.96,654.74 156.96,655.14 155.99,655.14 " />
 <path
    id="path57544"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
@@ -7694,7 +7716,7 @@
 <polygon
    id="polygon57568"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
-   points="220.49,654.74 220.49,664.7 219.12,664.7 219.12,664.31 220.09,664.31 220.09,655.14 219.12,655.14 219.12,654.74 " />
+   points="220.09,664.31 220.09,655.14 219.12,655.14 219.12,654.74 220.49,654.74 220.49,664.7 219.12,664.7 219.12,664.31 " />
 <path
    id="path57570"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
@@ -9345,7 +9367,7 @@
            y="512.30768"
            style="line-height:1" /></flowRegion><flowPara
          style="font-size:26.66666794px"
-         id="flowPara60817">We found a criterion for high-level 'monadic' signatures to specify a syntax that encompass the classical combinatorial signatures, and allows fancier operations at the level of the syntax.</flowPara></flowRoot>    <flowRoot
+         id="flowPara60817">We found a criterion for high-level 'monadic' signatures to specify a syntax. This criterion encompasses the classical combinatorial signatures, and allows fancier operations at the level of the syntax.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot60565"
        style="font-style:normal;font-weight:normal;font-size:26.66666603px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
