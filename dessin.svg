@@ -27,10 +27,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.6764445"
-     inkscape:cx="1016.6538"
-     inkscape:cy="132.25551"
+     inkscape:cx="865.8654"
+     inkscape:cy="154.43028"
      inkscape:document-units="mm"
-     inkscape:current-layer="g36424"
+     inkscape:current-layer="g70807"
      showgrid="false"
      units="px"
      inkscape:window-width="1920"
@@ -2993,7 +2993,7 @@
        xml:space="preserve"
        id="flowRoot36258"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,-7.4048474,24.317943)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,-7.4048474,38.790059)"><flowRegion
          id="flowRegion36246"><rect
            id="rect36244"
            width="955.57379"
@@ -3028,7 +3028,7 @@
    id="flowSpan5688">Set  </flowSpan>as.</flowPara><flowPara
          style="font-size:26.66666794px"
          id="flowPara5708">TODO le couper en 2.répéter la notion de modèle. ou identifier les 2 parties du slides.</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,-7.4048474,50.52347)"
+       transform="matrix(0.26458333,0,0,0.26458333,-7.4048474,64.995586)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot34075"
        xml:space="preserve"><flowRegion
@@ -3159,7 +3159,7 @@
        xml:space="preserve"
        id="flowRoot36348-3"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,-7.6189153,96.404713)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,260.3108,47.512429)"><flowRegion
          id="flowRegion36342-6"><rect
            id="rect36340-7"
            width="992.53168"
@@ -3171,10 +3171,10 @@
    style="font-size:64.99999762%;baseline-shift:sub"
    id="flowSpan34262">Set </flowSpan>can be viewed as a signature associated with this notion of model.</flowPara></flowRoot>  </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:groupmode="layer"
      id="g36424"
-     inkscape:label="Models and signatures following [FTP]">
+     inkscape:label="Models and signatures following [FPT]">
     <flowRoot
        transform="translate(6.6535756,17.449851)"
        xml:space="preserve"
@@ -3339,18 +3339,26 @@
        transform="matrix(0.26458333,0,0,0.26458333,-13.646418,-8.9418155)"><flowRegion
          id="flowRegion36342-6-6"><rect
            id="rect36340-7-0"
-           width="992.53168"
-           height="222.70543"
+           width="1033.9246"
+           height="230.09702"
            x="71.043488"
            y="179.20021" /></flowRegion><flowPara
          style="font-size:26.66666794px"
-         id="flowPara36346-5-6">An endofunctor Σ induced by binding signatures comes with a <flowSpan
+         id="flowPara36346-5-6">The endofunctor Σ induced by a binding signature comes with a <flowSpan
    style="font-style:italic"
    id="flowSpan34037-2">strength. <flowSpan
    style="font-style:normal"
-   id="flowSpan34055-6">It allows to</flowSpan> </flowSpan>define <flowSpan
+   id="flowSpan34055-6"></flowSpan></flowSpan></flowPara><flowPara
+         style="font-size:26.66666794px"
+         id="flowPara34467"><flowSpan
+   style="font-style:italic"
+   id="flowSpan34469"><flowSpan
+   style="font-style:normal"
+   id="flowSpan34471">It allows to</flowSpan> </flowSpan>define a new notion of model:</flowPara><flowPara
+         style="font-size:26.66666794px"
+         id="flowPara34463"><flowSpan
    style="font-weight:bold"
-   id="flowSpan34437">Σ-monoids:</flowSpan> Σ + Id<flowSpan
+   id="flowSpan34437">Σ-monoids =</flowSpan> Σ+Id<flowSpan
    style="font-size:64.99999762%;baseline-shift:sub"
    id="flowSpan34049-7">Set</flowSpan>-algebras equipped with a well-behaved substitution.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
@@ -3376,7 +3384,19 @@
            style="font-style:italic"
            id="flowSpan34451"><flowSpan
    style="font-style:normal"
-   id="flowSpan34453">(as in [Matthes-Uustalu 2004]) associated with this notion of model</flowSpan>.</flowSpan></flowPara></flowRoot>  </g>
+   id="flowSpan34453">(as in [Matthes-Uustalu 2004]) together with this notion of model</flowSpan>.</flowSpan></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot34455"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion34457"><rect
+           id="rect34459"
+           width="433.14716"
+           height="227.66095"
+           x="1105.7817"
+           y="129.36667" /></flowRegion><flowPara
+         id="flowPara34461"
+         style="fill:#ff0000">dire que strenght est une notion technique</flowPara></flowRoot>  </g>
   <g
      style="display:none"
      inkscape:groupmode="layer"
@@ -3540,7 +3560,39 @@
            id="rect5453" /></flowRegion><flowPara
          style="font-size:16px"
          id="flowPara5457" /></flowRoot>    <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,-12.194271,-4.0756677)"
+       xml:space="preserve"
+       id="flowRoot34495"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-12.194271,17.36671)"><flowRegion
+         id="flowRegion34475"><rect
+           id="rect34473"
+           width="955.57379"
+           height="777.07465"
+           x="71.043488"
+           y="179.20021" /></flowRegion><flowPara
+         style="font-size:26.66666794px"
+         id="flowPara34489">A <flowSpan
+   style="font-weight:bold"
+   id="flowSpan34514">signature</flowSpan> Σ assigns functorially:</flowPara><flowPara
+         style="font-size:26.66666794px"
+         id="flowPara34522">- to any endofunctor R with substitution: a &quot;<flowSpan
+   id="flowSpan34481"
+   style="font-weight:bold">monad&quot;</flowSpan></flowPara><flowPara
+         style="font-size:26.66666794px"
+         id="flowPara34528">- an endofunctor <flowSpan
+   id="flowSpan34483"
+   style="font-weight:bold">Σ</flowSpan>(<flowSpan
+   id="flowSpan34485"
+   style="font-weight:bold">R</flowSpan>) with substitution: a &quot;<flowSpan
+   id="flowSpan34487"
+   style="font-weight:bold">module</flowSpan> over the input</flowPara><flowPara
+         style="font-size:26.66666794px"
+         id="flowPara34533">  monad&quot;.</flowPara><flowPara
+         style="font-size:26.66666794px"
+         id="flowPara34491" /><flowPara
+         style="font-size:26.66666794px"
+         id="flowPara34493" /></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,-12.194271,-6.3314027)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot5479"
        xml:space="preserve"><flowRegion
@@ -3550,28 +3602,12 @@
            height="777.07465"
            width="955.57379"
            id="rect5469" /></flowRegion><flowPara
-         id="flowPara5473"
-         style="font-size:26.66666794px">A signature <flowSpan
-   style="font-weight:bold"
-   id="flowSpan34321">Σ</flowSpan> assigns functorially to any endofunctor <flowSpan
-   style="font-weight:bold"
-   id="flowSpan34323">R</flowSpan> with substitution (i.e. a <flowSpan
-   style="font-weight:bold"
-   id="flowSpan34317">monad</flowSpan>) an endofunctor <flowSpan
-   style="font-weight:bold"
-   id="flowSpan34327">Σ</flowSpan>(<flowSpan
-   style="font-weight:bold"
-   id="flowSpan34325">R</flowSpan>) compatible with the monad substitution (i.e. a <flowSpan
-   style="font-weight:bold"
-   id="flowSpan34319">module</flowSpan> over the input monad).</flowPara><flowPara
-         id="flowPara5475"
-         style="font-size:26.66666794px" /><flowPara
          id="flowPara5477"
-         style="font-size:26.66666794px" /></flowRoot>    <flowRoot
+         style="font-size:26.66666794px">We give an overview of our definition of signatures and models.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot34374"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,-26.12417,-39.487028)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,-26.12417,-23.612024)"><flowRegion
          id="flowRegion34356"><rect
            id="rect34354"
            width="986.76923"
@@ -3579,7 +3615,9 @@
            x="123.69231"
            y="561.23077" /></flowRegion><flowPara
          id="flowPara34372"
-         style="font-size:26.66666794px">A model is a monad <flowSpan
+         style="font-size:26.66666794px">A <flowSpan
+   style="font-weight:bold"
+   id="flowSpan34516">model</flowSpan> is a monad <flowSpan
    style="font-weight:bold"
    id="flowSpan34362">R</flowSpan> with a natural transformation from <flowSpan
    style="font-weight:bold"
@@ -3587,10 +3625,10 @@
    style="font-weight:bold"
    id="flowSpan34366">R</flowSpan>) to <flowSpan
    style="font-weight:bold"
-   id="flowSpan34368">R</flowSpan> compatible with the substitution (i.e. a <flowSpan
+   id="flowSpan34368">R</flowSpan> compatible with the substitution (a &quot;<flowSpan
    style="font-weight:bold"
-   id="flowSpan34370">module morphism</flowSpan>).</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,-26.458344,6.3912304)"
+   id="flowSpan34370">module morphism</flowSpan>&quot;).</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,-26.458344,13.799565)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot34349"
        xml:space="preserve"><flowRegion
@@ -3601,7 +3639,7 @@
            width="1010.4223"
            id="rect34329" /></flowRegion><flowPara
          style="font-size:26.66666794px"
-         id="flowPara34347">Binding signatures yield signatures. Their category of models are (essentially) equivalent to the [FTP] ones.</flowPara></flowRoot>  </g>
+         id="flowPara34347">We will show how binding signatures yield signatures in our sense. Their category of models are (essentially) equivalent to the [FPT] ones.</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="g40927"
@@ -3892,7 +3930,7 @@
            width="627.69232"
            id="rect63083" /></flowRegion><flowPara
          id="flowPara63087" /></flowRoot>    <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,-2.7785272,-42.159026)"
+       transform="matrix(0.26458333,0,0,0.26458333,-2.7785272,-48.509028)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot18864"
        xml:space="preserve"><flowRegion
@@ -3910,7 +3948,7 @@
          style="font-size:26.66666794px" /><flowPara
          id="flowPara18950"
          style="font-size:26.66666794px">considering the obvious substitution on pairs of lambda terms.</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,-2.7785272,13.009748)"
+       transform="matrix(0.26458333,0,0,0.26458333,-2.7785272,4.404706)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot66065"
        xml:space="preserve"><flowRegion
@@ -3925,11 +3963,17 @@
          style="font-size:26.66666794px"
          id="flowPara26209">- pairs of lambda-terms form a <flowSpan
    style="font-weight:bold"
-   id="flowSpan11345">module </flowSpan>over the lambda-calculus monad,</flowPara><flowPara
+   id="flowSpan11345">module <flowSpan
+   style="font-weight:normal"
+   id="flowSpan34545">L x L</flowSpan> </flowSpan>over the lambda-calculus monad L,</flowPara><flowPara
          style="font-size:26.66666794px"
          id="flowPara26213">- application is a <flowSpan
    style="font-weight:bold"
-   id="flowSpan11341">module morphism </flowSpan></flowPara></flowRoot>    <flowRoot
+   id="flowSpan11341">module morphism <flowSpan
+   style="font-weight:normal"
+   id="flowSpan34543">from L x L</flowSpan> <flowSpan
+   style="font-weight:normal"
+   id="flowSpan34541">to</flowSpan> </flowSpan>L</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.26458333,0,0,0.26458333,-38.252241,59.43174)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot66075"
@@ -4045,7 +4089,7 @@
 <polygon
    id="polygon5360"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
-   points="170.52,654.74 170.52,655.14 169.55,655.14 169.55,664.31 170.52,664.31 170.52,664.7 169.15,664.7 169.15,654.74 " />
+   points="170.52,664.31 170.52,664.7 169.15,664.7 169.15,654.74 170.52,654.74 170.52,655.14 169.55,655.14 169.55,664.31 " />
 <path
    id="path5362"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
@@ -4074,7 +4118,7 @@
 <polygon
    id="polygon5372"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
-   points="203.36,664.7 202,664.7 202,664.31 202.97,664.31 202.97,655.14 202,655.14 202,654.74 203.36,654.74 " />
+   points="202.97,655.14 202,655.14 202,654.74 203.36,654.74 203.36,664.7 202,664.7 202,664.31 202.97,664.31 " />
 <path
    id="path5374"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
@@ -4093,7 +4137,7 @@
 <polygon
    id="polygon5380"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
-   points="223.97,654.74 223.97,655.14 223,655.14 223,664.31 223.97,664.31 223.97,664.7 222.61,664.7 222.61,654.74 " />
+   points="223.97,664.31 223.97,664.7 222.61,664.7 222.61,654.74 223.97,654.74 223.97,655.14 223,655.14 223,664.31 " />
 <path
    id="path5382"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
@@ -4122,7 +4166,7 @@
 <polygon
    id="polygon5392"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
-   points="256.82,664.7 255.45,664.7 255.45,664.31 256.42,664.31 256.42,655.14 255.45,655.14 255.45,654.74 256.82,654.74 " />
+   points="256.42,655.14 255.45,655.14 255.45,654.74 256.82,654.74 256.82,664.7 255.45,664.7 255.45,664.31 256.42,664.31 " />
 <path
    id="path5394"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
@@ -4131,7 +4175,7 @@
 <polygon
    id="polygon5396"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
-   points="268.45,654.74 268.45,655.14 267.49,655.14 267.49,664.31 268.45,664.31 268.45,664.7 267.09,664.7 267.09,654.74 " />
+   points="268.45,664.31 268.45,664.7 267.09,664.7 267.09,654.74 268.45,654.74 268.45,655.14 267.49,655.14 267.49,664.31 " />
 <path
    id="path5398"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
@@ -4160,7 +4204,7 @@
 <polygon
    id="polygon5408"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
-   points="301.31,664.7 299.94,664.7 299.94,664.31 300.91,664.31 300.91,655.14 299.94,655.14 299.94,654.74 301.31,654.74 " />
+   points="300.91,655.14 299.94,655.14 299.94,654.74 301.31,654.74 301.31,664.7 299.94,664.7 299.94,664.31 300.91,664.31 " />
 </g>    <g
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        ns0:jacobian_sqrt="0.881944"
@@ -4226,7 +4270,7 @@
 <polygon
    id="polygon4872"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
-   points="188.78,654.74 188.78,655.14 187.81,655.14 187.81,664.31 188.78,664.31 188.78,664.7 187.42,664.7 187.42,654.74 " />
+   points="188.78,664.31 188.78,664.7 187.42,664.7 187.42,654.74 188.78,654.74 188.78,655.14 187.81,655.14 187.81,664.31 " />
 <path
    id="path4874"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
@@ -4255,7 +4299,7 @@
 <polygon
    id="polygon4884"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
-   points="221.63,664.7 220.26,664.7 220.26,664.31 221.23,664.31 221.23,655.14 220.26,655.14 220.26,654.74 221.63,654.74 " />
+   points="221.23,655.14 220.26,655.14 220.26,654.74 221.63,654.74 221.63,664.7 220.26,664.7 220.26,664.31 221.23,664.31 " />
 <path
    id="path4886"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
@@ -4294,7 +4338,7 @@
 <polygon
    id="polygon4900"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
-   points="262.16,654.74 262.16,655.14 261.19,655.14 261.19,664.31 262.16,664.31 262.16,664.7 260.8,664.7 260.8,654.74 " />
+   points="262.16,664.31 262.16,664.7 260.8,664.7 260.8,654.74 262.16,654.74 262.16,655.14 261.19,655.14 261.19,664.31 " />
 <path
    id="path4902"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
@@ -4323,7 +4367,7 @@
 <polygon
    id="polygon4912"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
-   points="295.01,664.7 293.64,664.7 293.64,664.31 294.61,664.31 294.61,655.14 293.64,655.14 293.64,654.74 295.01,654.74 " />
+   points="294.61,655.14 293.64,655.14 293.64,654.74 295.01,654.74 295.01,664.7 293.64,664.7 293.64,664.31 294.61,664.31 " />
 <path
    id="path4914"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
@@ -4337,7 +4381,7 @@
 <polygon
    id="polygon4918"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
-   points="308.86,654.74 308.86,655.14 307.9,655.14 307.9,664.31 308.86,664.31 308.86,664.7 307.5,664.7 307.5,654.74 " />
+   points="308.86,664.31 308.86,664.7 307.5,664.7 307.5,654.74 308.86,654.74 308.86,655.14 307.9,655.14 307.9,664.31 " />
 <path
    id="path4920"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
@@ -4366,7 +4410,7 @@
 <polygon
    id="polygon4930"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
-   points="341.71,664.7 340.34,664.7 340.34,664.31 341.31,664.31 341.31,655.14 340.34,655.14 340.34,654.74 341.71,654.74 " />
+   points="341.31,655.14 340.34,655.14 340.34,654.74 341.71,654.74 341.71,664.7 340.34,664.7 340.34,664.31 341.31,664.31 " />
 <path
    id="path4932"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
@@ -4392,7 +4436,7 @@
        font-style="normal"
        stroke-miterlimit="10.433"
        xml:space="preserve"
-       transform="matrix(0.881944,0,0,-0.881944,-83.355823,700.9818)"
+       transform="matrix(0.881944,0,0,-0.881944,-83.355823,694.63178)"
        id="g19582">
 <path
    id="path19514"
@@ -4437,7 +4481,7 @@
 <polygon
    id="polygon19530"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
-   points="188.78,654.74 188.78,655.14 187.81,655.14 187.81,664.31 188.78,664.31 188.78,664.7 187.42,664.7 187.42,654.74 " />
+   points="187.42,664.7 187.42,654.74 188.78,654.74 188.78,655.14 187.81,655.14 187.81,664.31 188.78,664.31 188.78,664.7 " />
 <path
    id="path19532"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
@@ -4466,7 +4510,7 @@
 <polygon
    id="polygon19542"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
-   points="221.63,664.7 220.26,664.7 220.26,664.31 221.23,664.31 221.23,655.14 220.26,655.14 220.26,654.74 221.63,654.74 " />
+   points="220.26,654.74 221.63,654.74 221.63,664.7 220.26,664.7 220.26,664.31 221.23,664.31 221.23,655.14 220.26,655.14 " />
 <path
    id="path19544"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
@@ -4525,7 +4569,7 @@
 <polygon
    id="polygon19566"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
-   points="280.04,654.74 280.04,655.14 279.07,655.14 279.07,664.31 280.04,664.31 280.04,664.7 278.68,664.7 278.68,654.74 " />
+   points="278.68,664.7 278.68,654.74 280.04,654.74 280.04,655.14 279.07,655.14 279.07,664.31 280.04,664.31 280.04,664.7 " />
 <path
    id="path19568"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
@@ -4554,7 +4598,7 @@
 <polygon
    id="polygon19578"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
-   points="312.89,664.7 311.52,664.7 311.52,664.31 312.49,664.31 312.49,655.14 311.52,655.14 311.52,654.74 312.89,654.74 " />
+   points="311.52,654.74 312.89,654.74 312.89,664.7 311.52,664.7 311.52,664.31 312.49,664.31 312.49,655.14 311.52,655.14 " />
 <path
    id="path19580"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
@@ -4795,7 +4839,7 @@
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="path12057-4" />
 <polygon
-   points="283.95,652.75 283.95,642.79 285.31,642.79 285.31,643.18 284.35,643.18 284.35,652.35 285.31,652.35 285.31,652.75 "
+   points="284.35,643.18 284.35,652.35 285.31,652.35 285.31,652.75 283.95,652.75 283.95,642.79 285.31,642.79 285.31,643.18 "
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="polygon12059-7" />
 <path
@@ -4819,7 +4863,7 @@
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="path12067-0" />
 <polygon
-   points="312.65,642.79 314.01,642.79 314.01,652.75 312.65,652.75 312.65,652.35 313.61,652.35 313.61,643.18 312.65,643.18 "
+   points="312.65,652.35 313.61,652.35 313.61,643.18 312.65,643.18 312.65,642.79 314.01,642.79 314.01,652.75 312.65,652.75 "
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="polygon12069-7" />
 <path
@@ -5068,7 +5112,9 @@
          id="flowPara23559"
          style="font-size:26.66666794px;line-height:1">  variables  given a module <flowSpan
    style="font-weight:bold"
-   id="flowSpan5729">M</flowSpan>.</flowPara><flowPara
+   id="flowSpan5729">M</flowSpan>. We call it the <flowSpan
+   style="font-weight:bold"
+   id="flowSpan34561">derivative of M</flowSpan>.</flowPara><flowPara
          style="font-weight:normal;font-size:26.66666794px"
          id="flowPara107523" /><flowPara
          style="font-weight:normal;font-size:26.66666794px"
@@ -5594,6 +5640,8 @@
    style="font-weight:bold">model</flowSpan> of a signature Σ is a monad R together with a morphism of modules σ : Σ<flowSpan
    id="flowSpan19608"
    style="font-weight:normal;font-size:64.99999762%;baseline-shift:sub">R</flowSpan> → R. </flowPara><flowPara
+         style="font-size:26.66666794px"
+         id="flowPara34549" /><flowPara
          id="flowPara19827"
          style="font-size:26.66666794px" /><flowPara
          id="flowPara19829"
@@ -5614,7 +5662,7 @@
            style="line-height:1" /></flowRegion><flowPara
          id="flowPara19823"
          style="font-size:26.66666794px" /></flowRoot>    <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,-4.3961537,8.6220297)"
+       transform="matrix(0.26458333,0,0,0.26458333,-4.3961537,105.23318)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot19632"
        xml:space="preserve"><flowRegion
@@ -5644,7 +5692,7 @@
        xml:space="preserve"
        id="flowRoot70308-8-1"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,-4.1813305,40.195433)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,-4.1813305,32.763806)"><flowRegion
          id="flowRegion70276-4-1"
          style="line-height:1"><rect
            id="rect70274-3-5"
@@ -5654,10 +5702,10 @@
            y="512.30768"
            style="line-height:1" /></flowRegion><flowPara
          id="flowPara70306-1-9"
-         style="font-size:26.66666794px">Notion of signature too general: existence of initial object ?</flowPara></flowRoot>  </g>
+         style="font-size:26.66666794px">Notion of signature too general: existence of the syntax (initial model) ?</flowPara></flowRoot>  </g>
   <g
      style="display:none"
-     inkscape:label="Examples of syntax generating signatures"
+     inkscape:label="Examples of signatures with syntax"
      id="g19987"
      inkscape:groupmode="layer">
     <flowRoot
@@ -5881,7 +5929,7 @@
          style="font-size:26.66666794px"
          id="flowPara70613-7">Models are monads R equipped with two modules morphisms R x R → R and R' → R. The syntax corresponds to lambda calculus.</flowPara></flowRoot>  </g>
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:label="Algebraic signatures"
      id="g70807"
      inkscape:groupmode="layer">
@@ -6039,15 +6087,15 @@
            y="512.30768"
            style="line-height:1" /></flowRegion><flowPara
          id="flowPara90959"
-         style="font-size:26.66666794px">More generally, any disjoint sum of products of finite derivatives of the monad (R ↦ R' x R'' x R''' + R x R'' x R''' x R + ...) generates a syntax. </flowPara><flowPara
+         style="font-size:26.66666794px">More generally, the syntax always exists for any signature induced by a disjoint sum of products of finite derivatives of the monad (R ↦ R' x R'' x R''' + R x R'' x R''' x R + ...).</flowPara><flowPara
+         style="font-size:26.66666794px"
+         id="flowPara34557" /><flowPara
          style="font-size:26.66666794px"
          id="flowPara5769" /><flowPara
          style="font-size:26.66666794px"
-         id="flowPara5771" /><flowPara
-         style="font-size:26.66666794px"
-         id="flowPara11353" /><flowPara
-         style="font-size:26.66666794px"
-         id="flowPara11356">These signatures correspond to binding signatures.</flowPara></flowRoot>    <flowRoot
+         id="flowPara11356">We call such a signature an <flowSpan
+   style="font-weight:bold"
+   id="flowSpan34547">algebraic signature</flowSpan>. They correspond to binding signatures.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot90975"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -6063,7 +6111,7 @@
          id="flowPara90973"
          style="font-size:26.66666794px"><flowSpan
    id="flowSpan90971"
-   style="font-weight:bold">Our main result:</flowSpan> quotients of binding signatures also generate a syntax</flowPara></flowRoot>    <g
+   style="font-weight:bold">Our main result:</flowSpan> quotients of algebraic signatures also generate a syntax</flowPara></flowRoot>    <g
        ns0:jacobian_sqrt="0.881944"
        inkscapeversion="0.92.3"
        ns0:alignment="middle center"
