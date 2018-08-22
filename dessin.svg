@@ -30,7 +30,7 @@
      inkscape:cx="1016.6538"
      inkscape:cy="132.25551"
      inkscape:document-units="mm"
-     inkscape:current-layer="g5774"
+     inkscape:current-layer="g36424"
      showgrid="false"
      units="px"
      inkscape:window-width="1920"
@@ -2613,7 +2613,7 @@
    id="flowSpan5151"
    style="font-weight:bold">B</flowSpan></flowPara></flowRoot>  </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:groupmode="layer"
      id="g5774"
      inkscape:label="[Fiore-Plotkin-Turi 1999]">
@@ -3171,7 +3171,7 @@
    style="font-size:64.99999762%;baseline-shift:sub"
    id="flowSpan34262">Set </flowSpan>can be viewed as a signature associated with this notion of model.</flowPara></flowRoot>  </g>
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:groupmode="layer"
      id="g36424"
      inkscape:label="Models and signatures following [FTP]">
@@ -3370,7 +3370,13 @@
    style="font-style:italic"
    id="flowSpan34315">with strength <flowSpan
    style="font-style:normal"
-   id="flowSpan34441">can be viewed as a signature associated with this notion of model</flowSpan>.</flowSpan></flowPara></flowRoot>  </g>
+   id="flowSpan34441">can be viewed as a signature</flowSpan></flowSpan></flowPara><flowPara
+         style="font-size:26.66666794px"
+         id="flowPara34449"><flowSpan
+           style="font-style:italic"
+           id="flowSpan34451"><flowSpan
+   style="font-style:normal"
+   id="flowSpan34453">(as in [Matthes-Uustalu 2004]) associated with this notion of model</flowSpan>.</flowSpan></flowPara></flowRoot>  </g>
   <g
      style="display:none"
      inkscape:groupmode="layer"
