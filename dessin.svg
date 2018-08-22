@@ -27,10 +27,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.6764445"
-     inkscape:cx="1009.2622"
-     inkscape:cy="309.65366"
+     inkscape:cx="1016.6538"
+     inkscape:cy="132.25551"
      inkscape:document-units="mm"
-     inkscape:current-layer="g97292"
+     inkscape:current-layer="g5774"
      showgrid="false"
      units="px"
      inkscape:window-width="1920"
@@ -2074,9 +2074,7 @@
            id="flowPara5468"
            style="font-size:26.66666794px;line-height:1em">| t<flowSpan
    id="flowSpan5464"
-   style="font-size:64.99999762%;baseline-shift:sub">1 <flowSpan
-   style="font-size:26.66666794px"
-   id="flowSpan5783"> </flowSpan></flowSpan>★ t<flowSpan
+   style="font-size:64.99999762%;baseline-shift:sub">1 </flowSpan>★ t<flowSpan
    id="flowSpan5466"
    style="font-size:64.99999762%;baseline-shift:sub">2</flowSpan> </flowPara><flowPara
            id="flowPara5472"
@@ -2497,7 +2495,7 @@
          style="font-size:26.66666794px"
          id="flowPara35015">The constant <flowSpan
    id="flowSpan35009"
-   style="font-weight:bold">0</flowSpan> induces a natural transformations:</flowPara></flowRoot>    <flowRoot
+   style="font-weight:bold">0</flowSpan> induces a natural transformation:</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot35573"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -2615,7 +2613,7 @@
    id="flowSpan5151"
    style="font-weight:bold">B</flowSpan></flowPara></flowRoot>  </g>
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:groupmode="layer"
      id="g5774"
      inkscape:label="[Fiore-Plotkin-Turi 1999]">
@@ -2717,7 +2715,7 @@
              x="144.23981"
              y="384.79575" /></flowRegion><flowPara
            id="flowPara5688"
-           style="font-size:26.66666794px">the length of the list is the number of arguments of the operation</flowPara></flowRoot>    </g>
+           style="font-size:26.66666794px">length of the list = number of arguments of the operation</flowPara></flowRoot>    </g>
     <g
        id="g5712"
        transform="translate(2.8465499,-17.165369)">
@@ -2748,7 +2746,7 @@
                x="144.23981"
                y="384.79575" /></flowRegion><flowPara
              id="flowPara5706"
-             style="font-size:26.66666794px">each natural number in the list indicates the number of bound variables in the corresponding argument</flowPara></flowRoot>      </g>
+             style="font-size:26.66666794px">natural number in the list = number of bound variables in the corresponding argument</flowPara></flowRoot>      </g>
     </g>
     <flowRoot
        xml:space="preserve"
@@ -2929,7 +2927,7 @@
      style="display:none"
      inkscape:groupmode="layer"
      id="g36238"
-     inkscape:label="Models following [FPT]">
+     inkscape:label="Models and signatures following [FPT]">
     <flowRoot
        transform="translate(6.6535756,17.449851)"
        xml:space="preserve"
@@ -3169,9 +3167,9 @@
            x="71.043488"
            y="179.20021" /></flowRegion><flowPara
          style="font-size:26.66666794px"
-         id="flowPara36346-5">This notion of model suggests a notion of signature:  endofunctors on End<flowSpan
+         id="flowPara36346-5">Any endofunctor on End<flowSpan
    style="font-size:64.99999762%;baseline-shift:sub"
-   id="flowSpan34262">Set</flowSpan>.</flowPara></flowRoot>  </g>
+   id="flowSpan34262">Set </flowSpan>can be viewed as a signature associated with this notion of model.</flowPara></flowRoot>  </g>
   <g
      style="display:none"
      inkscape:groupmode="layer"
@@ -3234,7 +3232,7 @@
        xml:space="preserve"
        id="flowRoot36356"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,-8.4631808,93.134879)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,-13.225683,89.43071)"><flowRegion
          id="flowRegion36352"><rect
            id="rect36350"
            width="955.57379"
@@ -3306,16 +3304,16 @@
        xml:space="preserve"
        id="flowRoot36412"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,-8.9913318,38.661225)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,-13.753834,37.602891)"><flowRegion
          id="flowRegion36404"><rect
            id="rect36402"
-           width="955.57379"
-           height="777.07465"
+           width="1013.2282"
+           height="66.003716"
            x="71.043488"
            y="179.20021" /></flowRegion><flowPara
          style="font-size:26.66666794px"
-         id="flowPara36410">Morphisms are algebra morphisms commuting with substitution.</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,-9.0205595,61.211068)"
+         id="flowPara36410">Σ-monoid morphisms = algebra morphisms commuting with substitution.</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,-13.783062,57.506899)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot36422"
        xml:space="preserve"><flowRegion
@@ -3334,11 +3332,11 @@
    style="font-weight:bold"
    id="flowSpan34278">Id</flowSpan><flowSpan
    style="font-size:64.99999762%;baseline-shift:sub"
-   id="flowSpan34276">Set</flowSpan>-algebra morphisms commutes with substitution (when the target algebra has a well-behaved substitution)</flowPara></flowRoot>    <flowRoot
+   id="flowSpan34276">Set</flowSpan>-algebra morphisms commute with substitution (when the target algebra is a Σ-monoid).</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot36348-3-3"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,-8.8839156,-5.2376486)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,-13.646418,-8.9418155)"><flowRegion
          id="flowRegion36342-6-6"><rect
            id="rect36340-7-0"
            width="992.53168"
@@ -3346,21 +3344,19 @@
            x="71.043488"
            y="179.20021" /></flowRegion><flowPara
          style="font-size:26.66666794px"
-         id="flowPara36346-5-6">Endofunctors induced by binding signatures come with a <flowSpan
+         id="flowPara36346-5-6">An endofunctor Σ induced by binding signatures comes with a <flowSpan
    style="font-style:italic"
    id="flowSpan34037-2">strength. <flowSpan
    style="font-style:normal"
-   id="flowSpan34055-6">It allows to</flowSpan> </flowSpan>define the category of <flowSpan
+   id="flowSpan34055-6">It allows to</flowSpan> </flowSpan>define <flowSpan
    style="font-weight:bold"
-   id="flowSpan34053-1">Σ</flowSpan> + <flowSpan
-   style="font-weight:bold"
-   id="flowSpan34051-8">Id</flowSpan><flowSpan
+   id="flowSpan34437">Σ-monoids:</flowSpan> Σ + Id<flowSpan
    style="font-size:64.99999762%;baseline-shift:sub"
    id="flowSpan34049-7">Set</flowSpan>-algebras equipped with a well-behaved substitution.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot36348-3-9"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,-8.3725422,125.27654)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,-13.135044,121.57235)"><flowRegion
          id="flowRegion36342-6-2"><rect
            id="rect36340-7-02"
            width="992.53168"
@@ -3368,11 +3364,13 @@
            x="71.043488"
            y="179.20021" /></flowRegion><flowPara
          style="font-size:26.66666794px"
-         id="flowPara36346-5-3">This notion of model suggests a notion of signature:  endofunctors on End<flowSpan
+         id="flowPara36346-5-3">Any endofunctor on End<flowSpan
    style="font-size:64.99999762%;baseline-shift:sub"
    id="flowSpan34262-7">Set </flowSpan><flowSpan
    style="font-style:italic"
-   id="flowSpan34315">with strength</flowSpan>.</flowPara></flowRoot>  </g>
+   id="flowSpan34315">with strength <flowSpan
+   style="font-style:normal"
+   id="flowSpan34441">can be viewed as a signature associated with this notion of model</flowSpan>.</flowSpan></flowPara></flowRoot>  </g>
   <g
      style="display:none"
      inkscape:groupmode="layer"
@@ -3597,7 +3595,7 @@
            width="1010.4223"
            id="rect34329" /></flowRegion><flowPara
          style="font-size:26.66666794px"
-         id="flowPara34347">Binding signatures yield signatures. Their category of models are equivalent to the [FTP] ones (if we restrict to finitary endofunctors on Set).</flowPara></flowRoot>  </g>
+         id="flowPara34347">Binding signatures yield signatures. Their category of models are (essentially) equivalent to the [FTP] ones.</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="g40927"
@@ -3702,9 +3700,7 @@
    style="font-weight:normal"
    id="flowSpan60339">(</flowSpan>X</flowSpan>) denotes the set of expressions taking variables in <flowSpan
    id="flowSpan4045"
-   style="font-weight:bold;font-size:26.66666794px">X</flowSpan>. Intuitively, it should contain at least the set <flowSpan
-   id="flowSpan4051"
-   style="font-weight:bold;font-size:26.66666794px">X</flowSpan> of variables.</flowPara><flowPara
+   style="font-weight:bold;font-size:26.66666794px">X</flowSpan>. </flowPara><flowPara
          id="flowPara19448-3"
          style="font-size:26.66666794px" /><flowPara
          style="font-size:26.66666794px"
@@ -3722,7 +3718,7 @@
    id="flowSpan3745"
    style="font-weight:bold;font-size:26.66666794px">R<flowSpan
    style="font-weight:normal"
-   id="flowSpan60317">(</flowSpan>Y</flowSpan>), any expression <flowSpan
+   id="flowSpan60317">(</flowSpan>Y</flowSpan>), variables of any expression <flowSpan
    id="flowSpan3329-2"
    style="font-weight:bold;font-size:26.66666794px">e</flowSpan> in <flowSpan
    id="flowSpan3749"
@@ -3856,7 +3852,7 @@
          style="font-size:26.66666794px"
          id="flowPara11329"><flowSpan
            style="font-weight:bold"
-           id="flowSpan11327">Does application commute with substitution?</flowSpan></flowPara></flowRoot>    <flowRoot
+           id="flowSpan11327">application commutes with substitution?</flowSpan></flowPara></flowRoot>    <flowRoot
        style="font-style:normal;font-weight:normal;font-size:32px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot63041"
        xml:space="preserve"><flowRegion
@@ -4677,8 +4673,8 @@
          id="flowRegion106627"><rect
            y="683.0769"
            x="13.846154"
-           height="620.39771"
-           width="948.81158"
+           height="667.48114"
+           width="986.22626"
            id="rect106625" /></flowRegion><flowPara
          id="flowPara19464"
          style="font-size:26.66666794px">A module <flowSpan
@@ -4697,25 +4693,25 @@
    id="flowSpan3309"
    style="font-weight:bold;font-size:26.66666794px">M(X)</flowSpan> is the set of expressions taking variables in <flowSpan
    id="flowSpan3311"
-   style="font-weight:bold;font-size:26.66666794px">X </flowSpan>(but contrary to monads, a variable may not immediately yield a generalized expression).</flowPara><flowPara
+   style="font-weight:bold;font-size:26.66666794px">X</flowSpan>.</flowPara><flowPara
          id="flowPara19448"
          style="font-size:26.66666794px" /><flowPara
          style="font-size:26.66666794px"
          id="flowPara106657">Given any family (<flowSpan
    id="flowSpan3339"
-   style="font-weight:bold;font-size:26.66666794px">t</flowSpan><flowSpan
-   style="font-weight:bold;font-size:26.66666794px;baseline-shift:sub"
-   id="flowSpan106663">x</flowSpan>)<flowSpan
+   style="font-weight:bold;font-size:26.66666794px">t<flowSpan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="flowSpan34445">x</flowSpan></flowSpan>)<flowSpan
    id="flowSpan3321"
    style="font-weight:bold;font-size:64.99999762%;baseline-shift:sub">x</flowSpan><flowSpan
    style="font-size:64.99999762%;baseline-shift:sub"
    id="flowSpan34395"> ∈ </flowSpan><flowSpan
    id="flowSpan3323"
-   style="font-weight:bold;font-size:64.99999762%;baseline-shift:sub">X</flowSpan> of expressions in <flowSpan
+   style="font-weight:bold;font-size:64.99999762%;baseline-shift:sub">X</flowSpan> of elements in <flowSpan
    id="flowSpan4033"
    style="font-weight:bold;font-size:26.66666794px">R<flowSpan
    style="font-weight:normal"
-   id="flowSpan34419">(</flowSpan>Y</flowSpan>), any expression <flowSpan
+   id="flowSpan34419">(</flowSpan>Y</flowSpan>), variables of any expression <flowSpan
    id="flowSpan3329"
    style="font-weight:bold;font-size:26.66666794px">e</flowSpan> in <flowSpan
    id="flowSpan3331"
@@ -4836,7 +4832,7 @@
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="path12075-8" />
 </g>    <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,-2.8649316,17.827635)"
+       transform="matrix(0.26458333,0,0,0.26458333,-2.8649316,6.7151301)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot19300"
        xml:space="preserve"><flowRegion
@@ -5035,18 +5031,6 @@
          y="102.08846"
          style="stroke-width:0.26458332"> </tspan></text>
     <flowRoot
-       xml:space="preserve"
-       id="flowRoot107217-8"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,-0.87044782,67.208811)"><flowRegion
-         id="flowRegion107211-5"><rect
-           id="rect107209-0"
-           width="989.43347"
-           height="541.10864"
-           x="38.984772"
-           y="172.3127" /></flowRegion><flowPara
-         id="flowPara107215-9"
-         style="font-weight:bold;font-size:26.66666794px">Important example : Derivative of a module</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot107468"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -10869,7 +10853,11 @@
            y="512.30768"
            style="line-height:1" /></flowRegion><flowPara
          style="font-size:26.66666794px"
-         id="flowPara60817">We found a criterion for high-level 'monadic' signatures to specify a syntax. This criterion encompasses the classical combinatorial signatures, and allows fancier operations at the level of the syntax.</flowPara></flowRoot>    <flowRoot
+         id="flowPara60817">We found a criterion for high-level 'monadic' signatures to specify a syntax. This criterion encompasses the classical binding signatures, and allows fancier operations at the level of the syntax.</flowPara><flowPara
+         style="font-size:26.66666794px"
+         id="flowPara34433" /><flowPara
+         style="font-size:26.66666794px"
+         id="flowPara34435">Our main theorem have been formalized using the Coq library UniMath.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot60565"
        style="font-style:normal;font-weight:normal;font-size:26.66666603px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
