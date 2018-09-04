@@ -29,9 +29,9 @@
      inkscape:window-width="1920"
      units="px"
      showgrid="false"
-     inkscape:current-layer="g233346"
+     inkscape:current-layer="g36424"
      inkscape:document-units="mm"
-     inkscape:cy="314.72527"
+     inkscape:cy="462.41757"
      inkscape:cx="511.42862"
      inkscape:zoom="1.0833333"
      inkscape:pageshadow="2"
@@ -1747,8 +1747,8 @@
            y="179.20021" /></flowRegion><flowPara
          style="font-size:26.66666794px"
          id="flowPara3096">special case: classical <flowSpan
-   id="flowSpan3384"
-   style="font-weight:bold">binding signatures</flowSpan></flowPara></flowRoot>    <flowRoot
+   style="font-weight:bold"
+   id="flowSpan94549">algebraic signatures</flowSpan></flowPara></flowRoot>    <flowRoot
        transform="matrix(0.26458333,0,0,0.26458333,0.4031015,91.999378)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot3122"
@@ -1924,11 +1924,11 @@
              id="flowPara37325"
              style="font-size:26.66666794px;line-height:3.25" /><flowPara
              style="font-size:26.66666794px;line-height:3.25"
-             id="flowPara6187"> Explicit substitution</flowPara><flowPara
+             id="flowPara6187"> Explicit substitution with coherences</flowPara><flowPara
              style="font-size:26.66666794px;line-height:3.25"
-             id="flowPara6189"> Coherent fixed point operation</flowPara><flowPara
+             id="flowPara6189"> Fixed point operation with coherences</flowPara><flowPara
              style="font-size:26.66666794px;line-height:3.25"
-             id="flowPara6191"> Syntactic closure operator</flowPara></flowRoot>      </g>
+             id="flowPara6191"> Syntactic closure operator with coherences</flowPara></flowRoot>      </g>
       <g
          id="g37363"
          transform="translate(5.8208336,-30.040384)">
@@ -4260,7 +4260,7 @@
      inkscape:label="Classical results on initial semantics"
      id="g36424"
      inkscape:groupmode="layer"
-     style="display:none">
+     style="display:inline">
     <flowRoot
        style="font-style:normal;font-weight:normal;font-size:26.66666603px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot36266"
@@ -4298,32 +4298,20 @@
          style="font-size:16px"
          id="flowPara36386" /></flowRoot>    <flowRoot
        xml:space="preserve"
-       id="flowRoot34075"
+       id="flowRoot94705"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,-8.946888,74.895223)"><flowRegion
-         id="flowRegion34059"><rect
-           id="rect34057"
-           width="1010.431"
-           height="696.13788"
+       transform="matrix(0.26458333,0,0,0.26458333,-7.498381,11.903134)"><flowRegion
+         id="flowRegion94699"><rect
+           id="rect94697"
+           width="971.5694"
+           height="219.47572"
            x="71.043488"
            y="179.20021" /></flowRegion><flowPara
-         style="font-size:26.66666794px"
-         id="flowPara34073"><flowSpan
-   id="flowSpan34061"
-   style="font-weight:bold">Theorem [FPT]</flowSpan>: </flowPara><flowPara
-         style="font-size:26.66666794px"
-         id="flowPara47151">The initial <flowSpan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Math;-inkscape-font-specification:'MathJax_Math Bold'"
-   id="flowSpan34063">Σ + </flowSpan><flowSpan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:'MathJax_Main Bold'"
-   id="flowSpan137259">Id</flowSpan><flowSpan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64.99999762%;font-family:MathJax_Main;-inkscape-font-specification:'MathJax_Main Bold';baseline-shift:sub"
-   id="flowSpan34067">Set</flowSpan>-algebra of a binding signature comes with a well-behaved substitution that makes it initial in the category of <flowSpan
-   id="flowSpan47149"
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:MathJax_Math;-inkscape-font-specification:'MathJax_Math Bold'">Σ-</flowSpan><flowSpan
-   id="flowSpan34663"
-   style="font-weight:bold">monoids</flowSpan>.</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,-7.498381,-10.810327)"
+         id="flowPara94703"
+         style="font-size:26.66666794px"><flowSpan
+   style="font-weight:bold"
+   id="flowSpan94701">[Fiore-Plotkin-Turi 1999]</flowSpan>:</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,-7.498381,82.974287)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot36348-3-3-5-5"
        xml:space="preserve"><flowRegion
@@ -4333,52 +4321,26 @@
            height="219.47572"
            width="971.5694"
            id="rect36340-7-0-2-9" /></flowRegion><flowPara
-         id="flowPara34467-7-5"
-         style="font-size:26.66666794px">The endofunctor <flowSpan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math"
-   id="flowSpan47178">Σ</flowSpan> induced by a binding signature comes with a <flowSpan
-   id="flowSpan34037-2-8-7"
-   style="font-style:italic">strength </flowSpan>which allows [FPT] to<flowSpan
-   id="flowSpan34469-3-2"
-   style="font-style:italic"> </flowSpan>refine the notion of model:</flowPara><flowPara
-         id="flowPara34463-1-5"
-         style="font-size:26.66666794px"><flowSpan
-   id="flowSpan47184"
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:MathJax_Math;-inkscape-font-specification:'MathJax_Math Bold'">Σ</flowSpan><flowSpan
-   id="flowSpan34437-2-4"
-   style="font-weight:bold">-monoid</flowSpan>:</flowPara><flowPara
          style="font-size:26.66666794px"
          id="flowPara263415"><flowSpan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math"
-   id="flowSpan263417">     Σ</flowSpan><flowSpan
-   id="flowSpan47186"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main">+Id</flowSpan><flowSpan
-   id="flowSpan34049-7-9-7"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64.99999762%;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main;baseline-shift:sub">Set</flowSpan>-algebra <flowSpan
-   style="font-weight:bold"
-   id="flowSpan249261">equipped with a well-behaved substitution</flowSpan>.</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,-7.654877,42.38766)"
+   id="flowSpan34437-2-4"
+   style="font-weight:bold">[Ghani-Uustalu 2003]</flowSpan>:</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,98.109309,12.80625)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       id="flowRoot36412-3-4"
+       id="flowRoot94713"
        xml:space="preserve"><flowRegion
-         id="flowRegion36404-1-4"><rect
+         id="flowRegion94709"><rect
            y="179.20021"
            x="71.043488"
-           height="190.7702"
-           width="1126.0643"
-           id="rect36402-9-3" /></flowRegion><flowPara
-         id="flowPara36410-4-0"
-         style="font-size:26.66666794px"><flowSpan
-   id="flowSpan263422"
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:MathJax_Math;-inkscape-font-specification:'MathJax_Math Bold'">Σ</flowSpan><flowSpan
-   id="flowSpan34643-7"
-   style="font-weight:bold">-monoid morphisms</flowSpan>:</flowPara><flowPara
-         style="font-size:26.66666794px"
-         id="flowPara263424">    algebra morphisms commuting with substitution.   </flowPara></flowRoot>    <flowRoot
+           height="222.70543"
+           width="992.53168"
+           id="rect94707" /></flowRegion><flowPara
+         id="flowPara94711"
+         style="font-size:26.66666794px">Initial semantics for binding signatures</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot34860-3-8"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,-8.863766,121.24471)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,98.109309,82.656249)"><flowRegion
          id="flowRegion34852-2-6"><rect
            id="rect34850-0-8"
            width="992.53168"
@@ -4386,15 +4348,7 @@
            x="71.043488"
            y="179.20021" /></flowRegion><flowPara
          style="font-size:26.66666794px"
-         id="flowPara34858-6-8">This suggests defining signatures to be endofunctors on <flowSpan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main"
-   id="flowSpan47172">End</flowSpan><flowSpan
-   style="font-size:64.99999762%;baseline-shift:sub"
-   id="flowSpan34854-1-4"><flowSpan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main"
-   id="flowSpan47174">Set</flowSpan> </flowSpan><flowSpan
-   style="font-style:italic"
-   id="flowSpan34856-5-3">with strength </flowSpan>(as in [Matthes-Uustalu 2004]).</flowPara></flowRoot>    <flowRoot
+         id="flowPara34858-6-8">Syntax for endufonctors with strength</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.26458333,0,0,0.26458333,271.65779,94.557968)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot36170"
@@ -5510,7 +5464,7 @@
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="path5358" />
 <polygon
-   points="170.52,664.31 170.52,664.7 169.15,664.7 169.15,654.74 170.52,654.74 170.52,655.14 169.55,655.14 169.55,664.31 "
+   points="170.52,654.74 170.52,655.14 169.55,655.14 169.55,664.31 170.52,664.31 170.52,664.7 169.15,664.7 169.15,654.74 "
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="polygon5360" />
 <path
@@ -5539,7 +5493,7 @@
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="path5370" />
 <polygon
-   points="202.97,655.14 202,655.14 202,654.74 203.36,654.74 203.36,664.7 202,664.7 202,664.31 202.97,664.31 "
+   points="203.36,664.7 202,664.7 202,664.31 202.97,664.31 202.97,655.14 202,655.14 202,654.74 203.36,654.74 "
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="polygon5372" />
 <path
@@ -5558,7 +5512,7 @@
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="path5378" />
 <polygon
-   points="223.97,664.31 223.97,664.7 222.61,664.7 222.61,654.74 223.97,654.74 223.97,655.14 223,655.14 223,664.31 "
+   points="223.97,654.74 223.97,655.14 223,655.14 223,664.31 223.97,664.31 223.97,664.7 222.61,664.7 222.61,654.74 "
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="polygon5380" />
 <path
@@ -5587,7 +5541,7 @@
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="path5390" />
 <polygon
-   points="256.42,655.14 255.45,655.14 255.45,654.74 256.82,654.74 256.82,664.7 255.45,664.7 255.45,664.31 256.42,664.31 "
+   points="256.82,664.7 255.45,664.7 255.45,664.31 256.42,664.31 256.42,655.14 255.45,655.14 255.45,654.74 256.82,654.74 "
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="polygon5392" />
 <path
@@ -5596,7 +5550,7 @@
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="path5394" />
 <polygon
-   points="268.45,664.31 268.45,664.7 267.09,664.7 267.09,654.74 268.45,654.74 268.45,655.14 267.49,655.14 267.49,664.31 "
+   points="268.45,654.74 268.45,655.14 267.49,655.14 267.49,664.31 268.45,664.31 268.45,664.7 267.09,664.7 267.09,654.74 "
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="polygon5396" />
 <path
@@ -5625,7 +5579,7 @@
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="path5406" />
 <polygon
-   points="300.91,655.14 299.94,655.14 299.94,654.74 301.31,654.74 301.31,664.7 299.94,664.7 299.94,664.31 300.91,664.31 "
+   points="301.31,664.7 299.94,664.7 299.94,664.31 300.91,664.31 300.91,655.14 299.94,655.14 299.94,654.74 301.31,654.74 "
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="polygon5408" />
 </g>    <g
@@ -5676,7 +5630,7 @@
    id="path77424"
    inkscape:connector-curvature="0" />
 <polygon
-   points="176.74,664.31 177.71,664.31 177.71,664.7 176.35,664.7 176.35,654.74 177.71,654.74 177.71,655.14 176.74,655.14 "
+   points="176.35,654.74 177.71,654.74 177.71,655.14 176.74,655.14 176.74,664.31 177.71,664.31 177.71,664.7 176.35,664.7 "
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="polygon77426" />
 <path
@@ -5705,7 +5659,7 @@
    id="path77436"
    inkscape:connector-curvature="0" />
 <polygon
-   points="210.16,664.31 210.16,655.14 209.19,655.14 209.19,654.74 210.56,654.74 210.56,664.7 209.19,664.7 209.19,664.31 "
+   points="210.56,654.74 210.56,664.7 209.19,664.7 209.19,664.31 210.16,664.31 210.16,655.14 209.19,655.14 209.19,654.74 "
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="polygon77438" />
 <path
@@ -5724,7 +5678,7 @@
    id="path77444"
    inkscape:connector-curvature="0" />
 <polygon
-   points="230.2,664.31 231.16,664.31 231.16,664.7 229.8,664.7 229.8,654.74 231.16,654.74 231.16,655.14 230.2,655.14 "
+   points="229.8,654.74 231.16,654.74 231.16,655.14 230.2,655.14 230.2,664.31 231.16,664.31 231.16,664.7 229.8,664.7 "
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="polygon77446" />
 <path
@@ -5753,7 +5707,7 @@
    id="path77456"
    inkscape:connector-curvature="0" />
 <polygon
-   points="263.61,664.31 263.61,655.14 262.64,655.14 262.64,654.74 264.01,654.74 264.01,664.7 262.64,664.7 262.64,664.31 "
+   points="264.01,654.74 264.01,664.7 262.64,664.7 262.64,664.31 263.61,664.31 263.61,655.14 262.64,655.14 262.64,654.74 "
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="polygon77458" />
 <path
@@ -5767,7 +5721,7 @@
    id="path77462"
    inkscape:connector-curvature="0" />
 <polygon
-   points="281.88,664.31 282.85,664.31 282.85,664.7 281.48,664.7 281.48,654.74 282.85,654.74 282.85,655.14 281.88,655.14 "
+   points="281.48,654.74 282.85,654.74 282.85,655.14 281.88,655.14 281.88,664.31 282.85,664.31 282.85,664.7 281.48,664.7 "
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="polygon77464" />
 <path
@@ -5796,7 +5750,7 @@
    id="path77474"
    inkscape:connector-curvature="0" />
 <polygon
-   points="315.29,664.31 315.29,655.14 314.33,655.14 314.33,654.74 315.69,654.74 315.69,664.7 314.33,664.7 314.33,664.31 "
+   points="315.69,654.74 315.69,664.7 314.33,664.7 314.33,664.31 315.29,664.31 315.29,655.14 314.33,655.14 314.33,654.74 "
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="polygon77476" />
 </g>    <path
@@ -11475,7 +11429,7 @@
        style="display:inline;fill:#ffffff;fill-opacity:0.92924529;stroke:#000000;stroke-width:0.317;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="Example 2: Explicit substitution"
      id="g233346"
      inkscape:groupmode="layer">
@@ -11841,7 +11795,7 @@
    style="fill:#000000;stroke-width:0" />
 <polygon
    id="polygon232990"
-   points="156.96,664.31 156.96,664.7 155.59,664.7 155.59,654.74 156.96,654.74 156.96,655.14 155.99,655.14 155.99,664.31 "
+   points="155.99,655.14 155.99,664.31 156.96,664.31 156.96,664.7 155.59,664.7 155.59,654.74 156.96,654.74 156.96,655.14 "
    style="fill:#000000;stroke-width:0" />
 <path
    id="path232992"
@@ -11890,7 +11844,7 @@
    style="fill:#000000;stroke-width:0" />
 <polygon
    id="polygon233010"
-   points="215.66,655.14 214.7,655.14 214.7,654.74 216.06,654.74 216.06,664.7 214.7,664.7 214.7,664.31 215.66,664.31 "
+   points="214.7,664.31 215.66,664.31 215.66,655.14 214.7,655.14 214.7,654.74 216.06,654.74 216.06,664.7 214.7,664.7 "
    style="fill:#000000;stroke-width:0" />
 <path
    id="path233012"
@@ -12047,7 +12001,7 @@
 <polygon
    id="polygon233066"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
-   points="156.96,655.14 155.99,655.14 155.99,664.31 156.96,664.31 156.96,664.7 155.59,664.7 155.59,654.74 156.96,654.74 " />
+   points="155.59,654.74 156.96,654.74 156.96,655.14 155.99,655.14 155.99,664.31 156.96,664.31 156.96,664.7 155.59,664.7 " />
 <path
    id="path233068"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
@@ -12111,7 +12065,7 @@
 <polygon
    id="polygon233092"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
-   points="219.12,664.7 219.12,664.31 220.09,664.31 220.09,655.14 219.12,655.14 219.12,654.74 220.49,654.74 220.49,664.7 " />
+   points="220.49,654.74 220.49,664.7 219.12,664.7 219.12,664.31 220.09,664.31 220.09,655.14 219.12,655.14 219.12,654.74 " />
 <path
    id="path233094"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
@@ -12304,37 +12258,37 @@
    id="flowSpan291774">...</flowSpan></flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot233530"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none"
        transform="matrix(0.30890346,0,0,0.30890346,-45.345436,-105.79854)"><flowRegion
          id="flowRegion233526"
-         style="fill:#0000ff;"><rect
+         style="fill:#0000ff"><rect
            id="rect233524"
            width="778.25555"
            height="65.407837"
            x="234.71663"
            y="560.26227"
-           style="fill:#0000ff;" /></flowRegion><flowPara
+           style="fill:#0000ff" /></flowRegion><flowPara
          id="flowPara233528"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math;fill:#0000ff;">t〈x <flowSpan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main;fill:#0000ff;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math;fill:#0000ff">t〈x <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main;fill:#0000ff"
    id="flowSpan291776">↦</flowSpan> u〉</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.30890346,0,0,0.30890346,21.280913,-105.79854)"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none"
        id="flowRoot235385"
        xml:space="preserve"><flowRegion
          id="flowRegion235381"
-         style="fill:#0000ff;"><rect
+         style="fill:#0000ff"><rect
            y="560.26227"
            x="234.71663"
            height="65.407837"
            width="778.25555"
            id="rect235379"
-           style="fill:#0000ff;" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math;fill:#0000ff;"
+           style="fill:#0000ff" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math;fill:#0000ff"
          id="flowPara235383">t〈x <flowSpan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main;fill:#0000ff;"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main;fill:#0000ff"
    id="flowSpan291778">↦</flowSpan> u,y <flowSpan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main;fill:#0000ff;"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main;fill:#0000ff"
    id="flowSpan291780">↦</flowSpan> v〉</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot235435"
@@ -12407,24 +12361,24 @@
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main"
    id="flowSpan291818">↦</flowSpan> v〉</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.30890346,0,0,0.30890346,98.675157,-105.79854)"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none"
        id="flowRoot219927-9"
        xml:space="preserve"><flowRegion
          id="flowRegion219921-6"
-         style="fill:#0000ff;"><rect
+         style="fill:#0000ff"><rect
            y="560.26227"
            x="234.71663"
            height="65.407837"
            width="778.25555"
            id="rect219919-1"
-           style="fill:#0000ff;" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math;fill:#0000ff;"
+           style="fill:#0000ff" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math;fill:#0000ff"
          id="flowPara219925-1">t〈x <flowSpan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main;fill:#0000ff;"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main;fill:#0000ff"
    id="flowSpan291786">↦</flowSpan> u,y <flowSpan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main;fill:#0000ff;"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main;fill:#0000ff"
    id="flowSpan291788">↦</flowSpan> v,z <flowSpan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main;fill:#0000ff;"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main;fill:#0000ff"
    id="flowSpan291790">↦</flowSpan> w〉</flowPara></flowRoot>    <g
        id="g233494"
        transform="translate(264.93639,-28.678803)">
@@ -13028,6 +12982,193 @@
        id="circle24738-10"
        style="display:inline;fill:#ffffff;fill-opacity:0.92924529;stroke:#000000;stroke-width:0.61699998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
   </g>
+  <g
+     style="display:none"
+     inkscape:groupmode="layer"
+     id="g94689"
+     inkscape:label="Copie de Classical results on initial semantics">
+    <flowRoot
+       transform="translate(6.6535756,17.449851)"
+       xml:space="preserve"
+       id="flowRoot94557"
+       style="font-style:normal;font-weight:normal;font-size:26.66666603px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion94553"
+         style="font-size:26.66666603px"><rect
+           id="rect94551"
+           width="911.72473"
+           height="387.50992"
+           x="66.737816"
+           y="163.05397"
+           style="font-size:26.66666603px" /></flowRegion><flowPara
+         id="flowPara94555" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot94565"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion94561"><rect
+           id="rect94559"
+           width="908.30945"
+           height="218.39746"
+           x="66.079231"
+           y="464.48352" /></flowRegion><flowPara
+         id="flowPara94563" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot94573"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion94569"><rect
+           id="rect94567"
+           width="885.90967"
+           height="215.03749"
+           x="103.0388"
+           y="483.52332" /></flowRegion><flowPara
+         id="flowPara94571"
+         style="font-size:16px" /></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,-8.946888,74.895223)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot94595"
+       xml:space="preserve"><flowRegion
+         id="flowRegion94577"><rect
+           y="179.20021"
+           x="71.043488"
+           height="696.13788"
+           width="1010.431"
+           id="rect94575" /></flowRegion><flowPara
+         id="flowPara94581"
+         style="font-size:26.66666794px"><flowSpan
+   style="font-weight:bold"
+   id="flowSpan94579">Theorem [FPT]</flowSpan>: </flowPara><flowPara
+         id="flowPara94593"
+         style="font-size:26.66666794px">The initial <flowSpan
+   id="flowSpan94583"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Math;-inkscape-font-specification:'MathJax_Math Bold'">Σ + </flowSpan><flowSpan
+   id="flowSpan94585"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:'MathJax_Main Bold'">Id</flowSpan><flowSpan
+   id="flowSpan94587"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64.99999762%;font-family:MathJax_Main;-inkscape-font-specification:'MathJax_Main Bold';baseline-shift:sub">Set</flowSpan>-algebra of a binding signature comes with a well-behaved substitution that makes it initial in the category of <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:MathJax_Math;-inkscape-font-specification:'MathJax_Math Bold'"
+   id="flowSpan94589">Σ-</flowSpan><flowSpan
+   style="font-weight:bold"
+   id="flowSpan94591">monoids</flowSpan>.</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot94625"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-7.498381,-10.810327)"><flowRegion
+         id="flowRegion94599"><rect
+           id="rect94597"
+           width="971.5694"
+           height="219.47572"
+           x="71.043488"
+           y="179.20021" /></flowRegion><flowPara
+         style="font-size:26.66666794px"
+         id="flowPara94607">The endofunctor <flowSpan
+   id="flowSpan94601"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math">Σ</flowSpan> induced by a binding signature comes with a <flowSpan
+   style="font-style:italic"
+   id="flowSpan94603">strength </flowSpan>which allows [FPT] to<flowSpan
+   style="font-style:italic"
+   id="flowSpan94605"> </flowSpan>refine the notion of model:</flowPara><flowPara
+         style="font-size:26.66666794px"
+         id="flowPara94613"><flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:MathJax_Math;-inkscape-font-specification:'MathJax_Math Bold'"
+   id="flowSpan94609">Σ</flowSpan><flowSpan
+   style="font-weight:bold"
+   id="flowSpan94611">-monoid</flowSpan>:</flowPara><flowPara
+         id="flowPara94623"
+         style="font-size:26.66666794px"><flowSpan
+   id="flowSpan94615"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math">     Σ</flowSpan><flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main"
+   id="flowSpan94617">+Id</flowSpan><flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64.99999762%;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main;baseline-shift:sub"
+   id="flowSpan94619">Set</flowSpan>-algebra <flowSpan
+   id="flowSpan94621"
+   style="font-weight:bold">equipped with a well-behaved substitution</flowSpan>.</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot94639"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-7.654877,42.38766)"><flowRegion
+         id="flowRegion94629"><rect
+           id="rect94627"
+           width="1126.0643"
+           height="190.7702"
+           x="71.043488"
+           y="179.20021" /></flowRegion><flowPara
+         style="font-size:26.66666794px"
+         id="flowPara94635"><flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:MathJax_Math;-inkscape-font-specification:'MathJax_Math Bold'"
+   id="flowSpan94631">Σ</flowSpan><flowSpan
+   style="font-weight:bold"
+   id="flowSpan94633">-monoid morphisms</flowSpan>:</flowPara><flowPara
+         id="flowPara94637"
+         style="font-size:26.66666794px">    algebra morphisms commuting with substitution.   </flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,-8.863766,121.24471)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot94655"
+       xml:space="preserve"><flowRegion
+         id="flowRegion94643"><rect
+           y="179.20021"
+           x="71.043488"
+           height="222.70543"
+           width="992.53168"
+           id="rect94641" /></flowRegion><flowPara
+         id="flowPara94653"
+         style="font-size:26.66666794px">This suggests defining signatures to be endofunctors on <flowSpan
+   id="flowSpan94645"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main">End</flowSpan><flowSpan
+   id="flowSpan94649"
+   style="font-size:64.99999762%;baseline-shift:sub"><flowSpan
+   id="flowSpan94647"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main">Set</flowSpan> </flowSpan><flowSpan
+   id="flowSpan94651"
+   style="font-style:italic">with strength </flowSpan>(as in [Matthes-Uustalu 2004]).</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot94663"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,271.65779,94.557968)"><flowRegion
+         id="flowRegion94659"><rect
+           id="rect94657"
+           width="955.57379"
+           height="777.07465"
+           x="71.043488"
+           y="179.20021" /></flowRegion><flowPara
+         style="font-size:26.66666794px;fill:#ff0000"
+         id="flowPara94661">However, such a general notion of signature raises two issues regarding the initial model:</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot94671"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,271.65779,123.28171)"><flowRegion
+         id="flowRegion94667"><rect
+           id="rect94665"
+           width="955.57379"
+           height="777.07465"
+           x="71.043488"
+           y="179.20021" /></flowRegion><flowPara
+         style="font-size:26.66666794px;fill:#ff0000"
+         id="flowPara94669">1. it may not exist</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,271.65779,135.4166)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot94679"
+       xml:space="preserve"><flowRegion
+         id="flowRegion94675"><rect
+           y="179.20021"
+           x="71.043488"
+           height="90.910698"
+           width="998.74011"
+           id="rect94673" /></flowRegion><flowPara
+         id="flowPara94677"
+         style="font-size:26.66666794px">2. it may not be equipped with a well-behaved substitution</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,-1.1451691,27.289433)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot94687"
+       xml:space="preserve"><flowRegion
+         id="flowRegion94683"><rect
+           y="129.36667"
+           x="1105.7817"
+           height="227.66095"
+           width="433.14716"
+           id="rect94681" /></flowRegion><flowPara
+         style="fill:#ff0000"
+         id="flowPara94685">dire que strenght est une notion technique</flowPara></flowRoot>  </g>
   <script
      id="JessyInk"
      ns1:version="1.5.5">// Copyright 2008, 2009 Hannes Hochreiner
