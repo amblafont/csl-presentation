@@ -31,7 +31,7 @@
      showgrid="false"
      inkscape:current-layer="g36424"
      inkscape:document-units="mm"
-     inkscape:cy="462.41757"
+     inkscape:cy="425.4945"
      inkscape:cx="511.42862"
      inkscape:zoom="1.0833333"
      inkscape:pageshadow="2"
@@ -2605,7 +2605,7 @@
            style="font-size:26.66666794px"
            id="flowPara3446">  Initial semantics for binding signatures</flowPara><flowPara
            style="font-size:26.66666794px"
-           id="flowPara3451">  Categorical formulation of substitution</flowPara></flowRoot>    </g>
+           id="flowPara3451">  Initial semantics for substitution</flowPara></flowRoot>    </g>
     <g
        ns0:jacobian_sqrt="1.058333"
        inkscapeversion="0.92.3"
@@ -4348,7 +4348,7 @@
            x="71.043488"
            y="179.20021" /></flowRegion><flowPara
          style="font-size:26.66666794px"
-         id="flowPara34858-6-8">Syntax for endufonctors with strength</flowPara></flowRoot>    <flowRoot
+         id="flowPara34858-6-8">Syntax for endofonctors with strength</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.26458333,0,0,0.26458333,271.65779,94.557968)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot36170"
@@ -4453,7 +4453,7 @@
              style="font-weight:bold;font-size:28.00000191px;line-height:0"
              id="flowPara249312">2. Signatures and models based on monads and modules</flowPara><flowPara
              id="flowPara3657"
-             style="font-weight:normal;font-size:28.00000191px;line-height:0">       Our categorical formulation of substitution</flowPara><flowPara
+             style="font-weight:normal;font-size:28.00000191px;line-height:0">       Our take on substitution</flowPara><flowPara
              id="flowPara3659"
              style="font-weight:normal;font-size:28.00000191px;line-height:0">       Our take on signatures, models and syntax</flowPara><flowPara
              id="flowPara3661"
@@ -5464,7 +5464,7 @@
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="path5358" />
 <polygon
-   points="170.52,654.74 170.52,655.14 169.55,655.14 169.55,664.31 170.52,664.31 170.52,664.7 169.15,664.7 169.15,654.74 "
+   points="170.52,664.31 170.52,664.7 169.15,664.7 169.15,654.74 170.52,654.74 170.52,655.14 169.55,655.14 169.55,664.31 "
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="polygon5360" />
 <path
@@ -5493,7 +5493,7 @@
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="path5370" />
 <polygon
-   points="203.36,664.7 202,664.7 202,664.31 202.97,664.31 202.97,655.14 202,655.14 202,654.74 203.36,654.74 "
+   points="202.97,655.14 202,655.14 202,654.74 203.36,654.74 203.36,664.7 202,664.7 202,664.31 202.97,664.31 "
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="polygon5372" />
 <path
@@ -5512,7 +5512,7 @@
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="path5378" />
 <polygon
-   points="223.97,654.74 223.97,655.14 223,655.14 223,664.31 223.97,664.31 223.97,664.7 222.61,664.7 222.61,654.74 "
+   points="223.97,664.31 223.97,664.7 222.61,664.7 222.61,654.74 223.97,654.74 223.97,655.14 223,655.14 223,664.31 "
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="polygon5380" />
 <path
@@ -5541,7 +5541,7 @@
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="path5390" />
 <polygon
-   points="256.82,664.7 255.45,664.7 255.45,664.31 256.42,664.31 256.42,655.14 255.45,655.14 255.45,654.74 256.82,654.74 "
+   points="256.42,655.14 255.45,655.14 255.45,654.74 256.82,654.74 256.82,664.7 255.45,664.7 255.45,664.31 256.42,664.31 "
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="polygon5392" />
 <path
@@ -5550,7 +5550,7 @@
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="path5394" />
 <polygon
-   points="268.45,654.74 268.45,655.14 267.49,655.14 267.49,664.31 268.45,664.31 268.45,664.7 267.09,664.7 267.09,654.74 "
+   points="268.45,664.31 268.45,664.7 267.09,664.7 267.09,654.74 268.45,654.74 268.45,655.14 267.49,655.14 267.49,664.31 "
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="polygon5396" />
 <path
@@ -5579,7 +5579,7 @@
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="path5406" />
 <polygon
-   points="301.31,664.7 299.94,664.7 299.94,664.31 300.91,664.31 300.91,655.14 299.94,655.14 299.94,654.74 301.31,654.74 "
+   points="300.91,655.14 299.94,655.14 299.94,654.74 301.31,654.74 301.31,664.7 299.94,664.7 299.94,664.31 300.91,664.31 "
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="polygon5408" />
 </g>    <g
@@ -5630,7 +5630,7 @@
    id="path77424"
    inkscape:connector-curvature="0" />
 <polygon
-   points="176.35,654.74 177.71,654.74 177.71,655.14 176.74,655.14 176.74,664.31 177.71,664.31 177.71,664.7 176.35,664.7 "
+   points="176.74,664.31 177.71,664.31 177.71,664.7 176.35,664.7 176.35,654.74 177.71,654.74 177.71,655.14 176.74,655.14 "
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="polygon77426" />
 <path
@@ -5659,7 +5659,7 @@
    id="path77436"
    inkscape:connector-curvature="0" />
 <polygon
-   points="210.56,654.74 210.56,664.7 209.19,664.7 209.19,664.31 210.16,664.31 210.16,655.14 209.19,655.14 209.19,654.74 "
+   points="210.16,664.31 210.16,655.14 209.19,655.14 209.19,654.74 210.56,654.74 210.56,664.7 209.19,664.7 209.19,664.31 "
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="polygon77438" />
 <path
@@ -5678,7 +5678,7 @@
    id="path77444"
    inkscape:connector-curvature="0" />
 <polygon
-   points="229.8,654.74 231.16,654.74 231.16,655.14 230.2,655.14 230.2,664.31 231.16,664.31 231.16,664.7 229.8,664.7 "
+   points="230.2,664.31 231.16,664.31 231.16,664.7 229.8,664.7 229.8,654.74 231.16,654.74 231.16,655.14 230.2,655.14 "
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="polygon77446" />
 <path
@@ -5707,7 +5707,7 @@
    id="path77456"
    inkscape:connector-curvature="0" />
 <polygon
-   points="264.01,654.74 264.01,664.7 262.64,664.7 262.64,664.31 263.61,664.31 263.61,655.14 262.64,655.14 262.64,654.74 "
+   points="263.61,664.31 263.61,655.14 262.64,655.14 262.64,654.74 264.01,654.74 264.01,664.7 262.64,664.7 262.64,664.31 "
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="polygon77458" />
 <path
@@ -5721,7 +5721,7 @@
    id="path77462"
    inkscape:connector-curvature="0" />
 <polygon
-   points="281.48,654.74 282.85,654.74 282.85,655.14 281.88,655.14 281.88,664.31 282.85,664.31 282.85,664.7 281.48,664.7 "
+   points="281.88,664.31 282.85,664.31 282.85,664.7 281.48,664.7 281.48,654.74 282.85,654.74 282.85,655.14 281.88,655.14 "
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="polygon77464" />
 <path
@@ -5750,7 +5750,7 @@
    id="path77474"
    inkscape:connector-curvature="0" />
 <polygon
-   points="315.69,654.74 315.69,664.7 314.33,664.7 314.33,664.31 315.29,664.31 315.29,655.14 314.33,655.14 314.33,654.74 "
+   points="315.29,664.31 315.29,655.14 314.33,655.14 314.33,654.74 315.69,654.74 315.69,664.7 314.33,664.7 314.33,664.31 "
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="polygon77476" />
 </g>    <path
@@ -8066,7 +8066,7 @@
          style="font-size:26.66666794px">Binding signatures       Our signatures </flowPara></flowRoot>    <g
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;display:inline;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="g111421-7"
-       transform="matrix(0.88194401,0,0,-0.88194401,-1.2277178,706.56905)"
+       transform="matrix(0.88194401,0,0,-0.88194401,-1.2277178,702.86486)"
        xml:space="preserve"
        stroke-miterlimit="10.433"
        font-style="normal"
